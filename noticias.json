@@ -1,4 +1,94 @@
 {
- "actualizado": "2026-11-04",
- "noticias": []
+ "actualizado": "2026-11-05",
+ "noticias": [
+  {
+   "slug": "riesgo-pais-maximo-2026-787-puntos",
+   "categoria": "mercado-argentino",
+   "titulo": "Riesgo país en máximos del año: qué significa para tus ahorros",
+   "h1": "El riesgo país cerró octubre en 787 puntos, su nivel más alto de 2026",
+   "descripcion": "El riesgo país subió 180 puntos en octubre y cerró en 787, máximo del año. Qué significa para los bonos, el dólar y el plazo fijo, y qué datos vienen.",
+   "resumen": "El índice de JP Morgan subió casi 30% en octubre y quedó 216 puntos arriba del cierre de 2025. Los bonos en dólares cayeron y el Merval también.",
+   "publicado": "2026-11-05T03:10:00-03:00",
+   "modificado": "2026-11-05T03:10:00-03:00",
+   "cuerpo": "<p>El riesgo país de Argentina terminó octubre en <strong>787 puntos básicos</strong>, el cierre más alto de 2026, según la serie del EMBI de JP Morgan. En el mes sumó 180 puntos, una suba del 29,7%, y quedó 216 puntos por encima de los 571 con los que había cerrado 2025.</p><h2>Cómo llegó a 787 puntos</h2><p>El índice había tocado su mínimo del año el 10 de julio, en 402 puntos. Desde ahí subió casi sin pausa: cerró septiembre en 607, el 19 de octubre llegó a 675, que ya era el máximo de los últimos doce meses, y en la última semana de octubre pasó de 707 a 787. Solo el viernes 30 sumó 46 puntos.</p><p>Podés ver la serie completa en el <a href=\"/riesgo-pais/historico/\">riesgo país histórico</a> y el valor del día en <a href=\"/riesgo-pais/\">riesgo país hoy</a>.</p><h2>Qué significa que suba el riesgo país</h2><p>Los 787 puntos equivalen a 7,87 puntos porcentuales de tasa por encima de los bonos del Tesoro de Estados Unidos. Cuando el riesgo país sube, los precios de los bonos argentinos en dólares bajan y sus rendimientos suben: quien ya tenía bonos vio caer su valor en octubre, y quien compra ahora consigue una tasa más alta a cambio de más riesgo.</p><p>La caída no fue solo de los bonos. El viernes 30 el Merval bajó 2,59% y cerró en 92.079,70 puntos, y en las semanas previas también cayeron la mayoría de los ADR argentinos en Nueva York.</p><h2>Qué puede cambiar para el ahorrista</h2><p>Un riesgo país alto suele ir acompañado de más presión sobre el dólar y de tasas en pesos más altas. Si tenés ahorros en pesos, conviene comparar cuánto paga hoy cada banco en el <a href=\"/plazo-fijo/\">ranking de plazo fijo</a> y seguir el <a href=\"/dolar/mep/\">dólar MEP</a>. Para tener una referencia de lo que espera el mercado para la inflación, el dólar y la tasa, mirá las <a href=\"/expectativas-de-mercado/\">expectativas de mercado del BCRA (REM)</a>.</p><h2>Qué viene</h2><p>El lunes 9 de noviembre es feriado nacional y el martes 10 hay feriado bancario, por lo que habrá menos ruedas de operación. El jueves 12 el INDEC publica la inflación de octubre, un dato que el mercado va a mirar de cerca. Podés seguirlo en <a href=\"/inflacion/2026/\">inflación 2026 mes por mes</a>.</p>",
+   "datos_clave": [
+    [
+     "Riesgo país (30/10)",
+     "787 pb",
+     "máximo de 2026"
+    ],
+    [
+     "Suba en octubre",
+     "+180 pb",
+     "+29,7%"
+    ],
+    [
+     "Mínimo del año",
+     "402 pb",
+     "10/7/2026"
+    ]
+   ],
+   "grafico": {
+    "titulo": "Riesgo país en 2026",
+    "descripcion": "Puntos básicos, cierres seleccionados (EMBI de JP Morgan)",
+    "sufijo": " pb",
+    "items": [
+     [
+      "Cierre 2025",
+      571
+     ],
+     [
+      "10/7",
+      402
+     ],
+     [
+      "30/9",
+      607
+     ],
+     [
+      "19/10",
+      675
+     ],
+     [
+      "23/10",
+      707
+     ],
+     [
+      "30/10",
+      787
+     ]
+    ]
+   },
+   "faqs": [
+    [
+     "¿Cuánto cerró el riesgo país en octubre de 2026?",
+     "En 787 puntos básicos el viernes 30 de octubre, su nivel más alto de 2026, según la serie de JP Morgan."
+    ],
+    [
+     "¿Qué pasa con los bonos cuando sube el riesgo país?",
+     "Bajan sus precios y suben sus rendimientos: quien los tenía pierde valor y quien compra consigue una tasa más alta a cambio de más riesgo."
+    ]
+   ],
+   "fuentes": [
+    {
+     "nombre": "Rankia Argentina",
+     "url": "https://www.rankia.com.ar/noticias/bolsa/7534427-riesgo-pais-hoy-2-noviembre-2026-787-puntos-nuevo-maximo-ano"
+    },
+    {
+     "nombre": "Canal 26",
+     "url": "https://www.canal26.com/economia/2026/10/19/caen-los-bonos-argentinos-y-el-riesgo-pais-se-dispara-a-un-nuevo-maximo-en-lo-que-va-del-ano/"
+    }
+   ],
+   "relacionados": [
+    [
+     "/riesgo-pais/",
+     "Riesgo país hoy"
+    ],
+    [
+     "/riesgo-pais/historico/",
+     "Riesgo país histórico"
+    ]
+   ]
+  }
+ ]
 }
