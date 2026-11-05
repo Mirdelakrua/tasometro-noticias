@@ -2,6 +2,256 @@
  "actualizado": "2026-11-05",
  "noticias": [
   {
+   "slug": "riesgo-pais-852-puntos-elecciones-eeuu-noviembre-2026",
+   "categoria": "mercado-internacional",
+   "titulo": "Riesgo país en 852 puntos tras las elecciones en EE.UU.",
+   "h1": "El riesgo país saltó a 852 puntos tras las elecciones en Estados Unidos, su nivel más alto desde octubre de 2025",
+   "descripcion": "El riesgo país cerró en 852 puntos el 4 de noviembre, a contramano de Wall Street. Por qué cayeron bonos y acciones y qué mirar si tenés ahorros.",
+   "resumen": "Mientras Wall Street festejó el triunfo demócrata en las legislativas, los bonos argentinos cayeron y el riesgo país sumó 21 puntos. El dólar oficial casi no se movió.",
+   "publicado": "2026-11-05T08:44:00-03:00",
+   "modificado": "2026-11-05T08:44:00-03:00",
+   "cuerpo": "<p>El riesgo país de Argentina cerró el miércoles 4 de noviembre de 2026 en <strong>852 puntos básicos</strong>, con una suba de 21 puntos (2,5%) en el día. Es el nivel más alto desde octubre de 2025 y un nuevo máximo de 2026. El salto llegó el día después de las elecciones legislativas en Estados Unidos, en una rueda en la que Wall Street subió con fuerza.</p><h2>Tres ruedas, 65 puntos</h2><p>El índice cerró octubre en 787 puntos, pasó a 805 el lunes 2, a 831 el martes 3 y a 852 el miércoles 4. Quedó 281 puntos arriba del cierre de 2025 y 450 por encima del mínimo del año, los 402 puntos del 10 de julio. Podés ver toda la serie en el <a href=\"/riesgo-pais/historico/\">riesgo país histórico</a> y el valor actualizado en <a href=\"/riesgo-pais/\">riesgo país hoy</a>.</p><p>El MSCI Merval bajó 2,40% y cerró en 88.238,32 puntos. Los bonos en dólares cayeron en promedio cerca de 0,5%. En Nueva York, los ADR de YPF perdieron más de 7% y los de Pampa Energía, 5,4%.</p><h2>Por qué Argentina fue a contramano</h2><p>Los demócratas ganaron las legislativas y controlarán las dos cámaras del Congreso desde el año próximo. El mercado global lo leyó bien: el Dow Jones subió cerca de 3%, el petróleo cayó más de 8% y la tasa del bono del Tesoro a 10 años bajó a 4,88%. Sin embargo, los activos argentinos no acompañaron, por dos motivos que señalan los analistas:</p><ul><li><strong>El respaldo de Estados Unidos.</strong> Un Trump más débil podría encarecer políticamente una nueva ayuda financiera. PPI y Facimex aclaran que el Tesoro puede usar su fondo de estabilización sin una nueva votación del Congreso, pero Facimex advierte que asistir a Argentina en 2027 podría tener un costo político mayor.</li><li><strong>La incertidumbre local.</strong> PPI remarcó que la elección no alcanza a explicar la suba del riesgo país desde julio. Martín Mazza, director de MM Investment, dijo a Ámbito que “una mejora del contexto internacional no alcanza para disipar las dudas locales de cara a 2027”, el año de las presidenciales.</li></ul><p>El ministro de Economía, Luis Caputo, sostuvo ese mismo día sobre el resultado electoral: “yo creo que para la Argentina no cambia”. El swap de hasta u$s20.000 millones firmado con el Tesoro estadounidense en octubre de 2025 sigue vigente.</p><h2>El dólar, por ahora, tranquilo</h2><p>El mercado cambiario no acompañó el ruido de los bonos. El mayorista bajó $5 y cerró en $1.546, muy lejos del techo de la banda ($1.956,93), y el oficial en el Banco Nación quedó en $1.570. El <a href=\"/dolar/mep/\">dólar MEP</a> subió a $1.584,76. El BCRA compró apenas u$s9 millones y las reservas terminaron en u$s50.435 millones.</p><h2>Qué significa para el ahorrista común</h2><p>Los 852 puntos equivalen a 8,52 puntos porcentuales de tasa por encima de los bonos del Tesoro de Estados Unidos. Quien tiene bonos argentinos o fondos que los incluyen, como algunos <a href=\"/fondos-renta-fija-dolares/\">fondos de renta fija en dólares</a>, vio bajar su valor. Quien compra hoy obtiene más rendimiento a cambio de más riesgo. En un plazo fijo en pesos el efecto no es directo, y las tasas de cada banco se pueden seguir en el <a href=\"/plazo-fijo/\">ranking de plazo fijo</a>. La decisión es de cada persona y depende de su horizonte y de cuánto riesgo puede tolerar.</p><h2>Qué viene</h2><p>El próximo dato fuerte es la inflación de octubre, que el INDEC publica el jueves 12 de noviembre a las 16. Para ver lo que espera el mercado sobre precios, dólar y tasa, están las <a href=\"/expectativas-de-mercado/\">expectativas de mercado del BCRA (REM)</a>.</p>",
+   "datos_clave": [
+    [
+     "Riesgo país (4/11)",
+     "852 pb",
+     "máximo desde octubre de 2025"
+    ],
+    [
+     "Suba desde el 30/10",
+     "+65 pb",
+     "desde 787 pb"
+    ],
+    [
+     "Merval (4/11)",
+     "88.238,32",
+     "-2,40% en el día"
+    ]
+   ],
+   "grafico": {
+    "titulo": "Riesgo país: cierres recientes",
+    "descripcion": "Puntos básicos, cierres seleccionados (EMBI de JP Morgan)",
+    "sufijo": " pb",
+    "items": [
+     [
+      "Cierre 2025",
+      571
+     ],
+     [
+      "10/7",
+      402
+     ],
+     [
+      "30/9",
+      607
+     ],
+     [
+      "30/10",
+      787
+     ],
+     [
+      "2/11",
+      805
+     ],
+     [
+      "3/11",
+      831
+     ],
+     [
+      "4/11",
+      852
+     ]
+    ]
+   },
+   "faqs": [
+    [
+     "¿Cuánto cerró el riesgo país el 4 de noviembre de 2026?",
+     "En 852 puntos básicos, 21 más que el día anterior. Es su nivel más alto desde octubre de 2025."
+    ],
+    [
+     "¿Por qué subió si Wall Street festejó?",
+     "Porque pesaron las dudas sobre el respaldo financiero de Estados Unidos en 2027 y la incertidumbre política local de cara a las presidenciales."
+    ],
+    [
+     "¿La suba del riesgo país cambia mi plazo fijo?",
+     "No de forma directa: tu tasa ya pactada se mantiene hasta el vencimiento. Puede influir en las condiciones que ofrezcan los bancos más adelante."
+    ]
+   ],
+   "fuentes": [
+    {
+     "nombre": "Ámbito",
+     "url": "https://www.ambito.com/finanzas/los-bonos-argentinos-rebotan-el-reves-electoral-donald-trump-eeuu-n6341351"
+    },
+    {
+     "nombre": "Rava Bursátil",
+     "url": "https://www.rava.com/perfil/RIESGO%20PAIS"
+    },
+    {
+     "nombre": "Diario Panorama",
+     "url": "https://www.diariopanorama.com/noticia/571884/riesgo-pais-supero-850-puntos-alcanzo-maximo-mas-ano-tras-elecciones-eeuu"
+    },
+    {
+     "nombre": "ABC Color",
+     "url": "https://www.abc.com.py/internacionales/2026/11/04/la-bolsa-de-buenos-aires-cierra-con-una-baja-del-240/"
+    },
+    {
+     "nombre": "Bloomberg Línea",
+     "url": "https://www.bloomberglinea.com/latinoamerica/argentina/elecciones-en-eeuu-la-derrota-de-trump-pone-en-riesgo-la-ayuda-financiera-a-milei/"
+    },
+    {
+     "nombre": "iProUP",
+     "url": "https://www.iproup.com/finanzas/72907-caputo-derrota-trump-elecciones-estados-unidos-swap-riesgo-pais-noviembre-2026"
+    },
+    {
+     "nombre": "Infobae",
+     "url": "https://www.infobae.com/economia/2026/11/05/la-incertidumbre-politica-aleja-a-los-inversores-de-los-activos-argentinos-y-el-riesgo-pais-alcanzo-un-nuevo-maximo-anual/"
+    },
+    {
+     "nombre": "Ámbito (dólar y reservas)",
+     "url": "https://www.ambito.com/finanzas/el-bcra-volvio-comprar-una-pausa-dos-ruedas-y-las-reservas-se-recuperaron-gracias-al-oro-n6341633"
+    },
+    {
+     "nombre": "BAE Negocios",
+     "url": "https://www.baenegocios.com/finanzas/el-dolar-bajo-y-el-bcra-compro-divisas-aunque-por-un-monto-reducido/"
+    },
+    {
+     "nombre": "Dato Puro (calendario IPC)",
+     "url": "https://datopuro.com.ar/indicadores/inflacion/octubre-2026"
+    }
+   ],
+   "relacionados": [
+    [
+     "/noticias/mercado-argentino/riesgo-pais-maximo-2026-787-puntos/",
+     "El riesgo país cerró octubre en 787 puntos"
+    ],
+    [
+     "/dolar/proyeccion/",
+     "Proyección del dólar"
+    ]
+   ]
+  },
+  {
+   "slug": "plazo-fijo-tasas-noviembre-2026-vs-inflacion",
+   "categoria": "tasas",
+   "titulo": "Plazo fijo en noviembre: qué tasa le gana a la inflación",
+   "h1": "Plazo fijo en noviembre de 2026: los grandes bancos pagan entre 16% y 21% y quedan debajo de la inflación que estiman las consultoras",
+   "descripcion": "Las tasas de plazo fijo van del 16% al 24% en noviembre. Cuánto rinde $1 millón a 30 días por banco y cuáles superan la inflación estimada de octubre.",
+   "resumen": "Ningún banco del top 10 por depósitos llega a la TNA necesaria para igualar una inflación mensual de 1,8%. Solo las entidades más chicas la superan.",
+   "publicado": "2026-11-05T08:44:00-03:00",
+   "modificado": "2026-11-05T08:44:00-03:00",
+   "cuerpo": "<p>A comienzos de noviembre de 2026, los plazos fijos online a 30 días pagan entre <strong>16% y 24% de TNA</strong>, según el relevamiento del BCRA que publicaron Infobae y El Destape el 2 de noviembre y Río Negro el 4. Entre los diez bancos con más depósitos, el techo es 21%: a esa tasa, $1 millón gana $17.260 en 30 días, un 1,73% en el período.</p><h2>Cuánto paga cada entidad</h2><table><tr><th>Entidad</th><th>TNA a 30 días</th><th>Ganancia sobre $1.000.000</th></tr><tr><td>Bica, CMF, Crédito Regional, Reba</td><td>24%</td><td>$19.726</td></tr><tr><td>Meridian</td><td>23,75%</td><td>$19.521</td></tr><tr><td>VOII, Banco del Sol</td><td>23%</td><td>$18.904</td></tr><tr><td>Banco Provincia</td><td>21%</td><td>$17.260</td></tr><tr><td>Banco Nación</td><td>19,25%</td><td>$15.822</td></tr><tr><td>Galicia</td><td>18,25%</td><td>$15.000</td></tr><tr><td>Santander</td><td>17,5%</td><td>$14.384</td></tr><tr><td>BBVA, Banco Ciudad</td><td>17%</td><td>$13.973</td></tr><tr><td>Patagonia</td><td>16%</td><td>$13.151</td></tr></table><p>La lista completa, con la tasa actualizada de cada entidad, está en el <a href=\"/plazo-fijo/\">ranking de plazo fijo</a>. También podés simular tu monto en <a href=\"/plazo-fijo/banco-voii/\">Banco VOII</a>, <a href=\"/plazo-fijo/bbva/\">BBVA</a> o <a href=\"/plazo-fijo/banco-macro/\">Banco Macro</a>. En este último caso hay diferencias entre fuentes: los relevamientos del 2 de noviembre lo muestran en 19,5% y el del 4, en 21%.</p><h2>La vara: inflación cerca de 1,8% a 2%</h2><p>El INDEC informó 1,9% para septiembre. Para octubre, Equilibra, EcoGo y LCG estiman 1,8% y Analytica, 2%. El REM del BCRA proyectaba 1,7%. El dato oficial sale el jueves 12 de noviembre y después se podrá ver en <a href=\"/inflacion/2026/\">inflación 2026 mes por mes</a>.</p><p>Con una cuenta simple, una TNA de 21,9% rinde 1,8% en 30 días, y una de 23,1% rinde 1,9%. Eso deja la foto así:</p><ul><li>Las entidades que pagan 24% (1,97% en 30 días) quedan por encima de esas referencias, salvo que el dato sea de 2% justo.</li><li>VOII y Banco del Sol, con 23% (1,89%), quedan entre 1,8% y 1,9%.</li><li>Banco Provincia (1,73%) queda debajo de lo que estiman las consultoras, aunque apenas arriba del REM. Nación (1,58%), Santander (1,44%) y BBVA (1,40%) quedan debajo de todas las referencias.</li></ul><p>La comparación es orientativa: la inflación es un dato por mes calendario, estas son estimaciones privadas y la tasa de un plazo fijo se fija al constituirlo, mientras la inflación de los próximos 30 días todavía no se conoce.</p><h2>Qué mirar antes de elegir</h2><ul><li><strong>El canal.</strong> El simulador del Banco Nación mostraba 20% por home banking y 16,5% por sucursal, según Río Negro: sobre $10 millones, $164.384 contra $135.616 en 30 días.</li><li><strong>La cobertura.</strong> Las tasas más altas suelen venir de entidades más chicas. Vale revisar quién es la entidad y hasta qué monto cubre la garantía de depósitos.</li><li><strong>La alternativa líquida.</strong> Si necesitás disponer de la plata antes de 30 días, podés comparar con las <a href=\"/billeteras/\">billeteras con rendimiento</a>.</li></ul><p>Como referencia mayorista, la tasa TAMAR cerró el 4 de noviembre en 24% y la BADLAR en 22,75%. Las tasas pueden cambiar durante el mes y para qué plazo te sirve cada opción depende de tu caso: la decisión es de cada persona.</p><h2>Qué viene</h2><p>Para tener una idea de lo que espera el mercado para los próximos meses, el REM anterior proyectaba 1,6% para noviembre y 1,8% para diciembre. Podés seguir las actualizaciones en las <a href=\"/expectativas-de-mercado/\">expectativas de mercado del BCRA</a>.</p>",
+   "datos_clave": [
+    [
+     "TNA más alta",
+     "24%",
+     "Bica, CMF, Crédito Regional, Reba"
+    ],
+    [
+     "Techo entre grandes bancos",
+     "21%",
+     "1,73% en 30 días"
+    ],
+    [
+     "Inflación de octubre estimada",
+     "1,8% a 2%",
+     "consultoras; INDEC publica el 12/11"
+    ]
+   ],
+   "grafico": {
+    "titulo": "TNA a 30 días por entidad",
+    "descripcion": "Relevamiento del BCRA a comienzos de noviembre de 2026",
+    "sufijo": "%",
+    "items": [
+     [
+      "Bica/CMF",
+      24
+     ],
+     [
+      "VOII",
+      23
+     ],
+     [
+      "Provincia",
+      21
+     ],
+     [
+      "Nación",
+      19.25
+     ],
+     [
+      "Galicia",
+      18.25
+     ],
+     [
+      "Santander",
+      17.5
+     ],
+     [
+      "BBVA",
+      17
+     ],
+     [
+      "Patagonia",
+      16
+     ]
+    ]
+   },
+   "faqs": [
+    [
+     "¿Cuánto rinde $1 millón en plazo fijo en noviembre de 2026?",
+     "Depende de la tasa: $19.726 en 30 días al 24% de TNA, $15.822 al 19,25% y $13.151 al 16%."
+    ],
+    [
+     "¿Qué TNA le gana a la inflación?",
+     "Con una inflación de 1,8% mensual hace falta cerca de 21,9% de TNA a 30 días; con 1,9%, cerca de 23,1%."
+    ],
+    [
+     "¿Cuándo se conoce la inflación de octubre?",
+     "El INDEC la publica el jueves 12 de noviembre de 2026 a las 16."
+    ]
+   ],
+   "fuentes": [
+    {
+     "nombre": "Infobae",
+     "url": "https://www.infobae.com/economia/2026/11/02/plazo-fijo-cuanto-pagan-los-principales-bancos-por-depositos-a-30-dias/"
+    },
+    {
+     "nombre": "El Destape",
+     "url": "https://www.eldestapeweb.com/economia/plazo-fijo-cual-banco-interes-paga-primera-semana-noviembre-2026-2026112112234"
+    },
+    {
+     "nombre": "Diario Río Negro",
+     "url": "https://www.rionegro.com.ar/economia/plazos-fijos-hoy-que-bancos-pagan-mas-y-cuanto-rinde-invertir-este-4-de-noviembre-de-2026-4784330/"
+    },
+    {
+     "nombre": "El Cronista",
+     "url": "https://www.cronista.com/economia-politica/inflacion-como-cerro-octubre-y-cual-es-el-limite-duro-de-roer/"
+    },
+    {
+     "nombre": "Entérate Noticias",
+     "url": "https://www.enteratenoticias.com.ar/actualidad/la-inflacion-de-octubre-cierra-en-torno-al-2-impulsada-por-alimentos-y-combustibles/"
+    },
+    {
+     "nombre": "Ámbito",
+     "url": "https://www.ambito.com/finanzas/el-bcra-volvio-comprar-una-pausa-dos-ruedas-y-las-reservas-se-recuperaron-gracias-al-oro-n6341633"
+    },
+    {
+     "nombre": "Dato Puro (calendario IPC)",
+     "url": "https://datopuro.com.ar/indicadores/inflacion/octubre-2026"
+    }
+   ],
+   "relacionados": [
+    [
+     "/plazo-fijo/le-gana-a-la-inflacion/",
+     "¿El plazo fijo le gana a la inflación?"
+    ],
+    [
+     "/plazo-fijo/cuanto-rinde-1-millon/",
+     "Cuánto rinde $1 millón en plazo fijo"
+    ]
+   ]
+  },
+  {
    "slug": "riesgo-pais-maximo-2026-787-puntos",
    "categoria": "mercado-argentino",
    "titulo": "Riesgo país en máximos del año: qué significa para tus ahorros",
