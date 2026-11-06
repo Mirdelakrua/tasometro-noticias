@@ -1,6 +1,256 @@
 {
- "actualizado": "2026-11-05",
+ "actualizado": "2026-11-06",
  "noticias": [
+  {
+   "slug": "riesgo-pais-925-puntos-caida-bonos-noviembre-2026",
+   "categoria": "mercado-argentino",
+   "titulo": "Riesgo país saltó a 925 puntos: qué pasó y qué mirar",
+   "h1": "El riesgo país superó los 900 puntos y llegó a 925, su nivel más alto desde octubre de 2025, en una rueda de fuertes caídas",
+   "descripcion": "El riesgo país cerró en 925 puntos el 5 de noviembre, con bonos y acciones en baja y el repo en pesos en 190%. Qué pasó y qué cambia para tus ahorros.",
+   "resumen": "Bonos y acciones argentinas cayeron con fuerza el jueves, en un día negativo para Wall Street, y la tasa repo en pesos llegó a 190% anual. El dólar oficial casi no se movió.",
+   "publicado": "2026-11-06T08:50:00-03:00",
+   "modificado": "2026-11-06T08:50:00-03:00",
+   "cuerpo": "<p>El riesgo país de Argentina cerró el jueves 5 de noviembre de 2026 en <strong>925 puntos básicos</strong>, 73 más que los 852 del miércoles, una suba de 8,6%. Es el nivel más alto desde octubre de 2025 y la mayor suba diaria desde mediados de ese mes. El valor figura en 925 en Infobae y El Territorio, y en 927 en otros cierres publicados. Podés seguir la serie en el <a href=\"/riesgo-pais/historico/\">riesgo país histórico</a> y el dato del día en <a href=\"/riesgo-pais/\">riesgo país hoy</a>.</p><h2>Qué cayó el jueves</h2><ul><li><strong>Acciones:</strong> el MSCI Merval bajó 4,1%, hasta 84.594,69 puntos, su peor caída diaria desde el 24 de junio.</li><li><strong>Bonos en dólares:</strong> perdieron cerca de 2,5% en promedio. El Global 2035 cedió 3,1%, el Global 2041, 2,8% y el Global 2030, 2,7%.</li><li><strong>ADR en Nueva York:</strong> Bioceres cayó 16,1%, YPF 7,1% y Mercado Libre más de 12%, tras un balance por debajo de lo esperado.</li></ul><h2>Por qué pegó más en Argentina</h2><p>El contexto externo fue malo: el Nasdaq bajó 5,5%, por el temor a nuevas regulaciones sobre las empresas de inteligencia artificial tras el triunfo demócrata en las legislativas de Estados Unidos. Pero los analistas apuntan también a causas locales. Según Puente, “el factor doméstico explicó la mayor parte del repunte del riesgo país”, y la Fundación Mediterránea estimó que alrededor del 60% de la suba responde a factores locales.</p><p>Entre esos factores se mencionan la elección presidencial de 2027, las reservas netas bajas y los pagos de deuda en moneda extranjera de 2027, de unos US$25.000 millones. Como referencia regional, Brasil ronda los 200 puntos y Paraguay cerró en 146.</p><h2>La tasa en pesos que llegó a 190%</h2><p>La tasa repo en pesos a un día saltó de 26% a <strong>190% anualizado</strong> al cierre del jueves, informó Bloomberg Línea. Es el costo anualizado de una operación de muy corto plazo: no es una tasa general de créditos ni la de tu plazo fijo. Según la misma nota, PPI, 1816 y Buenos Aires Valores vieron señales de compras oficiales de bonos en pesos antes de las licitaciones del Tesoro. Economía y el BCRA no quisieron hacer comentarios, así que esa intervención no está confirmada.</p><h2>El dólar casi no se movió</h2><p>El mayorista cerró en $1.545,50, 50 centavos menos que el miércoles, y el Banco Nación vendió a $1.570. El <a href=\"/dolar/mep/\">dólar MEP</a> terminó cerca de $1.580, con diferencias según la fuente. El techo de la banda cambiaria estaba en $1.958,16.</p><p>El BCRA compró US$42 millones, pero las reservas brutas cayeron US$793 millones, a US$49.642 millones, por un pago de US$880 millones al FMI.</p><h2>Qué significa para tus ahorros</h2><p>Un plazo fijo ya constituido mantiene la tasa pactada hasta el vencimiento. Para uno nuevo, las tasas cambian según cada entidad y conviene mirar el <a href=\"/plazo-fijo/\">ranking de plazo fijo</a> y las <a href=\"/billeteras/\">billeteras</a> antes de decidir. Quien tiene bonos en dólares o fondos que los incluyen, como los <a href=\"/fondos-renta-fija-dolares/\">fondos de renta fija en dólares</a>, pudo ver una baja en su valuación. Un riesgo país alto no implica por sí solo un movimiento del dólar: el jueves, de hecho, el oficial quedó estable. La decisión es de cada persona.</p><p>Un dato práctico: hoy viernes 6, el lunes 9 y el martes 10 no hay atención en sucursales bancarias. Cajeros, home banking y billeteras siguen funcionando, y los cheques se acreditan recién el siguiente día hábil. Si te vence un plazo fijo en esos días, consultá con tu banco cuándo se acredita.</p>",
+   "datos_clave": [
+    [
+     "Riesgo país (5/11)",
+     "925 pb",
+     "+73 pb; máximo desde octubre de 2025"
+    ],
+    [
+     "Merval (5/11)",
+     "84.594,69",
+     "-4,1% en el día"
+    ],
+    [
+     "Repo en pesos a 1 día",
+     "190%",
+     "anualizado; venía de 26%"
+    ]
+   ],
+   "grafico": {
+    "titulo": "Riesgo país: cierres recientes",
+    "descripcion": "Puntos básicos, cierres seleccionados (EMBI de JP Morgan)",
+    "sufijo": " pb",
+    "items": [
+     [
+      "10/7",
+      402
+     ],
+     [
+      "30/9",
+      607
+     ],
+     [
+      "30/10",
+      787
+     ],
+     [
+      "2/11",
+      805
+     ],
+     [
+      "3/11",
+      831
+     ],
+     [
+      "4/11",
+      852
+     ],
+     [
+      "5/11",
+      925
+     ]
+    ]
+   },
+   "faqs": [
+    [
+     "¿Cuánto cerró el riesgo país el 5 de noviembre de 2026?",
+     "En 925 puntos básicos según Infobae y El Territorio; otras fuentes publicaron 927. El día anterior había cerrado en 852."
+    ],
+    [
+     "¿La tasa de 190% la paga un plazo fijo?",
+     "No. Es la tasa repo en pesos a un día, anualizada, de una operación de muy corto plazo. No es una tasa para ahorristas."
+    ],
+    [
+     "¿Qué días no atienden los bancos?",
+     "El viernes 6, el lunes 9 y el martes 10 de noviembre. Cajeros, home banking y billeteras siguen funcionando."
+    ]
+   ],
+   "fuentes": [
+    {
+     "nombre": "Infobae",
+     "url": "https://www.infobae.com/economia/2026/11/05/el-riesgo-pais-trepo-por-encima-de-los-900-puntos-y-las-acciones-argentinas-sufrieron-fuertes-caidas-en-wall-street/"
+    },
+    {
+     "nombre": "El Territorio",
+     "url": "https://www.elterritorio.com.ar/noticias/2026/11/05/925302-el-riesgo-pais-salto-8_6por_ciento-y-supero-los-900-puntos-mientras-el-msci-merval-tuvo-su-peor-caida-diaria-desde-junio"
+    },
+    {
+     "nombre": "BAE Negocios (tapa)",
+     "url": "https://www.baenegocios.com/tapasbae/el-riesgo-pais-siguio-en-alza-y-ee-uu-advirtio-complicaciones-de-la-ayuda-al-pais-los-temas-del-dia-en-bae-negocios/"
+    },
+    {
+     "nombre": "BAE Negocios",
+     "url": "https://www.baenegocios.com/finanzas/el-riesgo-pais-trepo-a-927-puntos-pero-el-dolar-se-mantuvo-estable/"
+    },
+    {
+     "nombre": "Bloomberg Línea",
+     "url": "https://www.bloomberglinea.com/latinoamerica/argentina/mercados-argentinos-bajo-presion-mientras-las-tasas-de-repos-en-pesos-se-disparan-al-190/"
+    },
+    {
+     "nombre": "Rosario3",
+     "url": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-tasas-al-190-y-un-dolar-que-desafia-el-miedo-20261106-0001.html"
+    },
+    {
+     "nombre": "Los Primeros TV",
+     "url": "https://losprimeros.tv/economia/el-riesgo-pais-supero-los-900-puntos--la-incertidumbre-politica-y-la-falta-de-reservas-presionan-sobre-los-bonos-argentinos_a6aedb252696ebfa4509eacf7"
+    },
+    {
+     "nombre": "Infobae (BCRA y reservas)",
+     "url": "https://www.infobae.com/economia/2026/11/05/el-banco-central-ya-compro-mas-de-usd-16000-millones-en-2026-pero-las-reservas-cayeron-por-un-pago-al-fmi/"
+    },
+    {
+     "nombre": "Ámbito",
+     "url": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-jueves-5-noviembre-n6342083"
+    },
+    {
+     "nombre": "El Economista",
+     "url": "https://eleconomista.com.ar/finanzas/cinco-dias-bancos-noviembre-conviene-resolver-antes-6-sigue-funcionando-n98616"
+    }
+   ],
+   "relacionados": [
+    [
+     "/riesgo-pais/historico/",
+     "Riesgo país histórico"
+    ],
+    [
+     "/plazo-fijo/",
+     "Ranking de plazo fijo"
+    ]
+   ]
+  },
+  {
+   "slug": "rem-octubre-2026-inflacion-30-4-dolar-1590",
+   "categoria": "inflacion",
+   "titulo": "REM: inflación de 30,4% en 2026 y dólar a $1.590",
+   "h1": "REM de octubre: los analistas esperan 30,4% de inflación en 2026, dólar a $1.590 en diciembre y un crecimiento de 0,7%",
+   "descripcion": "El REM del BCRA proyecta 1,8% de inflación en octubre, 30,4% en 2026 y un dólar de $1.590 en diciembre. Qué implica para tu plazo fijo y tus ahorros.",
+   "resumen": "El Relevamiento de Expectativas de Mercado subió apenas la inflación esperada, recortó el dólar para los próximos meses y bajó a la mitad el crecimiento de 2026.",
+   "publicado": "2026-11-06T08:50:00-03:00",
+   "modificado": "2026-11-06T08:50:00-03:00",
+   "cuerpo": "<p>El BCRA publicó el jueves 5 de noviembre de 2026 el Relevamiento de Expectativas de Mercado (REM) de octubre: los analistas esperan una <strong>inflación de 30,4% para 2026</strong> y un dólar mayorista de <strong>$1.590 en diciembre</strong>. La encuesta se hizo del 28 al 30 de octubre entre 45 participantes, 33 consultoras y centros de investigación y 12 entidades financieras, antes de que el riesgo país superara los 900 puntos. El detalle está en las <a href=\"/expectativas-de-mercado/\">expectativas de mercado</a>.</p><h2>Inflación: leve corrección hacia arriba</h2><p>Para octubre la mediana da 1,8%, 0,1 punto más que el relevamiento anterior, y la inflación núcleo, 1,7%. La proyección de 30,4% para 2026 subió cerca de 0,4 puntos. Los diez analistas más precisos (Top 10) esperan 30,6%. Para 2027 el REM marca 21,9% y para 2028, 15,3%.</p><table><tr><th>Mes</th><th>Inflación esperada</th></tr><tr><td>Octubre 2026</td><td>1,8%</td></tr><tr><td>Noviembre 2026</td><td>1,7%</td></tr><tr><td>Diciembre 2026</td><td>1,8%</td></tr><tr><td>Enero 2027</td><td>1,7%</td></tr><tr><td>Febrero 2027</td><td>1,6%</td></tr><tr><td>Marzo 2027</td><td>1,7%</td></tr></table><p>El dato oficial de octubre todavía no salió. Cuando se publique, vas a poder compararlo en <a href=\"/inflacion/2026/\">inflación 2026 mes por mes</a>.</p><h2>Dólar: menos para fin de año, más para octubre de 2027</h2><p>El tipo de cambio mayorista promedio esperado es de $1.558 en noviembre, $21,4 menos que en el REM anterior, y de $1.590 en diciembre, $24,3 menos. Implica una suba de 9,8% contra diciembre de 2025. El Top 10 ubica diciembre en $1.580.</p><p>Hacia adelante la expectativa va en sentido contrario: para octubre de 2027 el promedio es $1.985, unos $40 más que en el REM anterior. Contra el cierre mayorista de $1.545,50 del jueves, los $1.590 de diciembre serían cerca de 2,9% más. Podés ver más escenarios en la <a href=\"/dolar/proyeccion/\">proyección del dólar</a>.</p><h2>Qué tasa hace falta para empatarle a la inflación</h2><p>El REM espera una tasa TAMAR de 23,9% nominal anual en noviembre y de 24% en diciembre. Con una cuenta simple, para rendir 1,7% en 30 días, igual a la inflación esperada de noviembre, hace falta una TNA de cerca de 20,7%.</p><p>Según el listado que publicó La Nación el 5 de noviembre, Banco Provincia paga 21% (1,73% en 30 días) y Banco Nación, 19,25% (1,58%). Entre las entidades con tasas más altas, Banco de Comercio figura en 24,25% y Bica, CMF, Crédito Regional y Reba, en 24% (1,97%). <a href=\"/plazo-fijo/banco-macro/\">Banco Macro</a> figura en 19,5%, <a href=\"/plazo-fijo/santander/\">Santander</a> en 17,5% y <a href=\"/plazo-fijo/bbva/\">BBVA</a> en 17%. Las tasas cambian seguido: revisá el <a href=\"/plazo-fijo/\">ranking de plazo fijo</a> antes de decidir. Comparar es una referencia, no una garantía, y la decisión es de cada persona.</p><h2>Actividad: crecimiento recortado</h2><p>El REM bajó la suba del PBI de 2026 de 1,5% a 0,7%. Espera una caída de 2,3% en el tercer trimestre y un rebote de 2% en el cuarto, ambos sin estacionalidad, y una desocupación de 7,8% a fin de año.</p><p>Hay que leer estos números como lo que son: el BCRA los publica como expectativas de analistas, no como pronósticos propios, y se relevaron antes de la fuerte suba de esta semana en el riesgo país.</p>",
+   "datos_clave": [
+    [
+     "Inflación 2026",
+     "30,4%",
+     "REM de octubre; Top 10: 30,6%"
+    ],
+    [
+     "Dólar diciembre",
+     "$1.590",
+     "mayorista promedio; -$24,3 vs. REM previo"
+    ],
+    [
+     "PBI 2026",
+     "+0,7%",
+     "antes esperaban 1,5%"
+    ]
+   ],
+   "grafico": {
+    "titulo": "Inflación mensual esperada",
+    "descripcion": "Mediana del REM de octubre de 2026 (BCRA)",
+    "sufijo": "%",
+    "items": [
+     [
+      "Oct",
+      1.8
+     ],
+     [
+      "Nov",
+      1.7
+     ],
+     [
+      "Dic",
+      1.8
+     ],
+     [
+      "Ene",
+      1.7
+     ],
+     [
+      "Feb",
+      1.6
+     ],
+     [
+      "Mar",
+      1.7
+     ]
+    ]
+   },
+   "faqs": [
+    [
+     "¿Cuánta inflación espera el REM para 2026?",
+     "30,4% según la mediana del relevamiento de octubre, y 21,9% para 2027."
+    ],
+    [
+     "¿A cuánto espera el REM el dólar en diciembre?",
+     "A $1.590 de promedio mayorista, $24,3 menos que en el relevamiento anterior. El Top 10 espera $1.580."
+    ],
+    [
+     "¿El REM es un pronóstico del Banco Central?",
+     "No. El BCRA publica las expectativas de los analistas que participan; no son proyecciones propias."
+    ]
+   ],
+   "fuentes": [
+    {
+     "nombre": "El Cronista",
+     "url": "https://www.cronista.com/economia-politica/rem-a-cuanto-llegara-el-dolar-y-cual-sera-la-inflacion-para-fin-de-ano/"
+    },
+    {
+     "nombre": "Perfil",
+     "url": "https://perfil.com/economia/rem-del-bcra-el-precio-que-le-ponen-a-la-inflacion-y-al-dolar-45-actores-del-mercado-a9fcc7k2dRuP"
+    },
+    {
+     "nombre": "iProfesional",
+     "url": "https://www.iprofesional.com/finanzas/468485-el-bcra-revelo-que-esperan-45-economistas-para-el-dolar-en-argentina"
+    },
+    {
+     "nombre": "A24",
+     "url": "https://www.a24.com/economia/inflacion-octubre-que-anticipo-el-mercado-el-ultimo-informe-del-banco-central-n1613866"
+    },
+    {
+     "nombre": "Bloomberg Línea",
+     "url": "https://www.bloomberglinea.com/latinoamerica/argentina/rem-del-bcra-mercado-argentino-anticipa-crecimiento-economico-de-menos-de-1-en-2026/"
+    },
+    {
+     "nombre": "BAE Negocios",
+     "url": "https://www.baenegocios.com/economia/la-city-redujo-a-la-mitad-su-proyeccion-del-pbi-2026-y-preve-algo-mas-de-inflacion/"
+    },
+    {
+     "nombre": "Rosario3",
+     "url": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-tasas-al-190-y-un-dolar-que-desafia-el-miedo-20261106-0001.html"
+    },
+    {
+     "nombre": "La Nación",
+     "url": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-jueves-5-de-noviembre-nid05112026/"
+    },
+    {
+     "nombre": "Infobae",
+     "url": "https://www.infobae.com/economia/2026/11/05/el-riesgo-pais-trepo-por-encima-de-los-900-puntos-y-las-acciones-argentinas-sufrieron-fuertes-caidas-en-wall-street/"
+    }
+   ],
+   "relacionados": [
+    [
+     "/expectativas-de-mercado/",
+     "Expectativas de mercado (REM)"
+    ],
+    [
+     "/inflacion/2026/",
+     "Inflación 2026 mes por mes"
+    ]
+   ]
+  },
   {
    "slug": "riesgo-pais-852-puntos-elecciones-eeuu-noviembre-2026",
    "categoria": "mercado-internacional",
