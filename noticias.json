@@ -1,6 +1,111 @@
 {
- "actualizado": "2026-11-07",
+ "actualizado": "2026-11-08",
  "noticias": [
+  {
+   "slug": "inflacion-octubre-2026-consultoras-estiman-1-8-a-2-1",
+   "categoria": "inflacion",
+   "titulo": "Inflación de octubre: consultoras esperan entre 1,8% y 2,1%",
+   "h1": "Inflación de octubre 2026: qué estiman las consultoras antes del dato del INDEC y qué significa para tus ahorros",
+   "descripcion": "Las consultoras privadas proyectan una inflación de 1,8% a 2,1% para octubre de 2026 y el REM espera 1,8%. Qué la empujó y qué significa para tus pesos.",
+   "resumen": "Antes del dato oficial del INDEC, las consultoras privadas ubican la inflación de octubre entre 1,8% y 2,1%, frente al 1,9% de septiembre. Los alimentos fueron el rubro que más presionó.",
+   "publicado": "2026-11-08T08:45:00-03:00",
+   "modificado": "2026-11-08T08:45:00-03:00",
+   "cuerpo": "<p>A pocos días de que el INDEC publique el índice de precios de octubre de 2026, previsto para mediados de noviembre, las consultoras privadas anticipan una inflación de <strong>entre 1,8% y 2,1%</strong> para el mes. Así lo muestra el relevamiento que publicó El Economista el <strong>2 de noviembre</strong>, y coincide con el <strong>1,8%</strong> que esperan los analistas del Relevamiento de Expectativas de Mercado (REM) del BCRA, difundido el 5 de noviembre. El punto de comparación es el <strong>1,9%</strong> de septiembre.</p>\n<h2>Qué estiman las consultoras</h2>\n<p>Estas son las proyecciones para octubre que recopiló El Economista:</p>\n<table><tr><th>Consultora</th><th>Inflación estimada de octubre</th></tr>\n<tr><td>Fundación Libertad y Progreso</td><td>1,8%</td></tr>\n<tr><td>Equilibra</td><td>1,8%</td></tr>\n<tr><td>EconViews</td><td>1,9%</td></tr>\n<tr><td>Analytica</td><td>2%</td></tr>\n<tr><td>Invecq</td><td>2%</td></tr>\n<tr><td>C&amp;T</td><td>2%</td></tr>\n<tr><td>Eco Go</td><td>2,1%</td></tr></table>\n<p>La mayoría se ubica en torno al 2%, es decir, sin una baja clara frente a septiembre. Según la misma nota, en los últimos doce meses la inflación quedó por debajo del 2% mensual solo en junio (1,9%) y agosto (1,7%). Podés ver la serie completa en <a href=\"/inflacion/2026/\">inflación 2026 mes por mes</a> y las proyecciones de los analistas en <a href=\"/expectativas-de-mercado/\">expectativas de mercado (REM)</a>.</p>\n<h2>Qué empujó los precios en octubre</h2>\n<p>Los alimentos fueron protagonistas. Analytica midió una suba de 2,5% en alimentos y bebidas en el promedio de las últimas cuatro semanas del mes, con fuertes aumentos en verduras (8,8%) y frutas (2,9%). Invecq señaló que alimentos y bebidas no alcohólicas fue el rubro que más contribuyó al índice general, y que restaurantes y hoteles tuvo la mayor suba de su medición.</p>\n<p>LCG, que releva precios de alimentos en supermercados, registró una suba de 0,2% en la cuarta semana de octubre y un promedio mensual de 2,7%, según informó iProfesional el 30 de octubre. Ese mismo informe recogió que el relevamiento de Eco Go proyectaba entonces 1,8% para el nivel general.</p>\n<p>El BCRA, por su parte, había identificado como factores de presión para el cuarto trimestre la estacionalidad de la carne vacuna, los combustibles y las tarifas, en especial las de gas. También anticipó que el aumento de las naftas de fines de septiembre se reflejaría por completo en el dato de octubre.</p>\n<h2>Qué significa para tus ahorros</h2>\n<p>Con una inflación que se mueve alrededor del 2% mensual, una colocación en pesos necesita rendir algo más que eso por mes para no perder poder de compra. Antes de renovar, conviene comparar la tasa que te paga tu banco con la del resto en el <a href=\"/plazo-fijo/\">ranking de plazo fijo</a>, y revisar si <a href=\"/plazo-fijo/le-gana-a-la-inflacion/\">el plazo fijo le gana a la inflación</a> con los últimos datos. Si preferís tener la plata disponible todos los días, en <a href=\"/billeteras/\">billeteras virtuales</a> podés ver cuánto rinde cada cuenta remunerada.</p>\n<p>Para quien tiene deudas en pesos a tasa fija, una inflación más baja hace que la cuota pese relativamente más con el tiempo. Si estás pensando en endeudarte, compará el costo total en <a href=\"/prestamos-personales/\">préstamos personales</a>. En todos los casos, la decisión es de cada persona según sus plazos y necesidades.</p>\n<h2>Qué mirar cuando salga el dato</h2>\n<ul><li><strong>Si se confirma cerca del 2%:</strong> la inflación quedaría en un nivel parecido al de septiembre, sin una desaceleración clara.</li>\n<li><strong>Si queda en 1,8% o menos:</strong> estaría en línea con lo que esperan el REM y las estimaciones más bajas.</li>\n<li><strong>Los rubros:</strong> alimentos, combustibles y tarifas son los que las consultoras y el BCRA marcaron como presión para estos meses.</li></ul>\n<p>Para todo 2026, los analistas del REM esperan una inflación de 30,4%, según el resumen de la encuesta publicado el 5 de noviembre.</p>",
+   "datos_clave": [
+    [
+     "Consultoras privadas",
+     "1,8% a 2,1%",
+     "Estimación para octubre (relevamiento del 2/11)"
+    ],
+    [
+     "REM del BCRA",
+     "1,8%",
+     "Inflación esperada para octubre"
+    ],
+    [
+     "Septiembre (INDEC)",
+     "1,9%",
+     "Último dato oficial"
+    ]
+   ],
+   "grafico": {
+    "titulo": "Inflación estimada de octubre 2026 por consultora",
+    "descripcion": "Proyecciones privadas recopiladas por El Economista el 2 de noviembre de 2026.",
+    "sufijo": "%",
+    "items": [
+     [
+      "LyP",
+      1.8
+     ],
+     [
+      "Equilibra",
+      1.8
+     ],
+     [
+      "EconViews",
+      1.9
+     ],
+     [
+      "Analytica",
+      2.0
+     ],
+     [
+      "Invecq",
+      2.0
+     ],
+     [
+      "C&T",
+      2.0
+     ],
+     [
+      "Eco Go",
+      2.1
+     ]
+    ]
+   },
+   "faqs": [
+    [
+     "¿Cuándo publica el INDEC la inflación de octubre 2026?",
+     "A mediados de noviembre de 2026, según El Economista. Conviene chequear el calendario oficial del INDEC."
+    ],
+    [
+     "¿Cuánto esperan las consultoras?",
+     "Entre 1,8% y 2,1% mensual; el REM del BCRA espera 1,8%."
+    ],
+    [
+     "¿Qué rubros presionaron más?",
+     "Alimentos y bebidas, con fuertes subas en verduras y frutas, además de combustibles y tarifas según el BCRA."
+    ]
+   ],
+   "fuentes": [
+    {
+     "nombre": "El Economista: inflación de octubre, qué anticipan las consultoras (2/11/2026)",
+     "url": "https://eleconomista.com.ar/economia/shock-inflacion-octubre-consultoras-anticipan-dato-podria-complicar-planes-milei-n99382"
+    },
+    {
+     "nombre": "El Economista: la desinflación también se estancó en octubre (28/10/2026)",
+     "url": "https://eleconomista.com.ar/economia/la-desinflacion-tambien-estanco-precios-cierran-octubre-alzas-18-2-n99289"
+    },
+    {
+     "nombre": "iProfesional: precios de alimentos en octubre (30/10/2026)",
+     "url": "https://www.iprofesional.com/economia/467906-precios-de-alimentos-la-suba-mensual-se-desacelero-en-octubre"
+    },
+    {
+     "nombre": "GBM: inflación habría sido de 1,8% en octubre, encuesta del banco central (5/11/2026)",
+     "url": "https://gbm.com/media/noticia/inflacion-argentina-habria-sido-del-18-en-octubre-encuesta-del-banco-central/"
+    }
+   ],
+   "relacionados": [
+    [
+     "/inflacion/2026/",
+     "Inflación 2026 mes por mes"
+    ],
+    [
+     "/plazo-fijo/le-gana-a-la-inflacion/",
+     "¿El plazo fijo le gana a la inflación?"
+    ]
+   ]
+  },
   {
    "slug": "bancos-cerrados-6-al-10-noviembre-2026-que-funciona",
    "categoria": "mercado-argentino",
