@@ -1,6 +1,107 @@
 {
- "actualizado": "2026-11-08",
+ "actualizado": "2026-11-09",
  "noticias": [
+  {
+   "slug": "dolar-cierre-semana-6-noviembre-2026-blue-debajo-oficial",
+   "categoria": "dolar",
+   "titulo": "Dólar: el oficial cerró a $1.570 y el blue bajó a $1.555",
+   "h1": "Dólar hoy: el oficial cerró la semana a $1.570, el blue bajó a $1.555 y quedó por debajo antes del fin de semana largo",
+   "descripcion": "El dólar oficial cerró el 6 de noviembre a $1.570 en el Banco Nación y el blue bajó a $1.555. Cómo quedaron MEP y CCL y qué significa para tus ahorros.",
+   "resumen": "El oficial subió $10 en la semana y cerró a $1.570 el viernes 6 de noviembre, mientras el blue bajó a $1.555 y quedó por debajo. Son las referencias hasta el miércoles 11.",
+   "publicado": "2026-11-09T08:38:55-03:00",
+   "modificado": "2026-11-09T08:38:55-03:00",
+   "cuerpo": "<p>El dólar oficial cerró el <strong>viernes 6 de noviembre de 2026</strong> a <strong>$1.570</strong> para la venta en el Banco Nación, $10 más que el viernes 30 de octubre ($1.560). En la misma semana, el <strong>dólar blue bajó $10</strong> y terminó en <strong>$1.555</strong>, por debajo del oficial. Esos precios quedan como referencia durante el fin de semana largo: los bancos no atienden hasta el miércoles 11 por el feriado del lunes 9 y el feriado bancario del martes 10.</p>\n<h2>Cómo cerró cada dólar</h2>\n<p>Estas son las cotizaciones de venta al cierre del viernes, según el relevamiento de Ámbito:</p>\n<table><tr><th>Dólar</th><th>Cierre 6/11</th><th>Cierre 30/10</th></tr>\n<tr><td>Oficial Banco Nación</td><td>$1.570</td><td>$1.560</td></tr>\n<tr><td>Blue</td><td>$1.555</td><td>$1.565</td></tr>\n<tr><td>MEP</td><td>$1.578,78</td><td>$1.575</td></tr>\n<tr><td>Contado con liquidación (CCL)</td><td>$1.678,72</td><td>$1.658,50</td></tr>\n<tr><td>Mayorista</td><td>$1.545,50</td><td>s/d</td></tr>\n<tr><td>Tarjeta o turista</td><td>$2.041</td><td>s/d</td></tr></table>\n<p>Los valores del 30 de octubre son los que informó Perfil ese día. El dato del MEP varía un poco según la fuente: El Litoral lo ubicó en $1.580,17 y Río Negro en $1.583,82. Podés seguir el valor actualizado en la página de <a href=\"/dolar/mep/\">dólar MEP hoy</a>.</p>\n<h2>Blue debajo del oficial y brechas chicas</h2>\n<p>El dato que llama la atención es que el blue terminó $15 por debajo del oficial del Banco Nación, una brecha negativa de 0,96% según Río Negro. El MEP, en cambio, quedó apenas 2,2% arriba del oficial y el CCL, 8,6%, de acuerdo con Ámbito. En octubre, el oficial había subido 1,3% en el mes y el MEP 1,8%, según los datos de cierre mensual de Indicadores.ar.</p>\n<p>Para el ahorrista, una brecha tan baja significa que comprar dólares por canales legales (home banking o MEP) cuesta casi lo mismo que en el mercado informal, sin los riesgos que implica este último.</p>\n<h2>Qué espera el mercado para fin de año</h2>\n<p>Los analistas que responden el <a href=\"/expectativas-de-mercado/\">Relevamiento de Expectativas de Mercado (REM)</a> del BCRA, publicado el 5 de noviembre, esperan un dólar mayorista promedio de $1.558 en noviembre y de $1.590 en diciembre. Contra el mayorista de $1.545,50 del viernes, eso implicaría una suba moderada en lo que resta del año. Podés comparar escenarios en la <a href=\"/dolar/proyeccion/\">proyección del dólar</a>.</p>\n<p>La semana también estuvo marcada por la suba del riesgo país, que repasamos en el <a href=\"/riesgo-pais/historico/\">riesgo país histórico</a>.</p>\n<h2>Qué significa para tus ahorros</h2>\n<ul>\n<li><strong>Si ahorrás en dólares:</strong> el oficial y el MEP casi no se movieron en la semana; no hubo saltos bruscos.</li>\n<li><strong>Si ahorrás en pesos:</strong> con el dólar subiendo menos de 1% en la semana, conviene mirar cuánto rinden las alternativas en pesos. Podés comparar el <a href=\"/plazo-fijo/\">ranking de plazo fijo</a> y las <a href=\"/billeteras/\">cuentas remuneradas de billeteras</a>.</li>\n<li><strong>Durante el fin de semana largo:</strong> home banking, cajeros y billeteras siguen funcionando, pero el mercado cambiario no opera hasta el miércoles 11, así que las cotizaciones del viernes son la última referencia.</li>\n</ul>\n<p>Ningún dato pasado garantiza lo que hará el dólar. La decisión de cómo repartir los ahorros es de cada persona, según sus plazos y necesidades.</p>",
+   "datos_clave": [
+    [
+     "Oficial Banco Nación",
+     "$1.570",
+     "Venta, cierre del 6/11 (+$10 en la semana)"
+    ],
+    [
+     "Dólar blue",
+     "$1.555",
+     "Venta, cierre del 6/11 (−$10 en la semana)"
+    ],
+    [
+     "Dólar MEP",
+     "$1.578,78",
+     "Brecha de 2,2% con el oficial"
+    ]
+   ],
+   "grafico": {
+    "titulo": "Cotizaciones del dólar al cierre del 6 de noviembre de 2026",
+    "descripcion": "Precio de venta en pesos según Ámbito.",
+    "sufijo": "",
+    "items": [
+     [
+      "Blue",
+      1555
+     ],
+     [
+      "Oficial BNA",
+      1570
+     ],
+     [
+      "MEP",
+      1578.78
+     ],
+     [
+      "CCL",
+      1678.72
+     ],
+     [
+      "Tarjeta",
+      2041
+     ]
+    ]
+   },
+   "faqs": [
+    [
+     "¿A cuánto cerró el dólar oficial el 6 de noviembre de 2026?",
+     "A $1.570 para la venta en el Banco Nación, $10 más que el viernes 30 de octubre."
+    ],
+    [
+     "¿Por qué el blue está por debajo del oficial?",
+     "Al cierre del viernes el blue estaba a $1.555, $15 menos que el oficial del Banco Nación, una brecha negativa de 0,96%."
+    ],
+    [
+     "¿Cuándo vuelve a operar el mercado cambiario?",
+     "El miércoles 11 de noviembre, después del feriado del lunes 9 y el feriado bancario del martes 10."
+    ]
+   ],
+   "fuentes": [
+    {
+     "nombre": "Ámbito – Dólar hoy: a cuánto cerró este viernes 6 de noviembre",
+     "url": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-viernes-6-noviembre-n6342535"
+    },
+    {
+     "nombre": "Diario Río Negro – Dólar oficial: a cuánto cerró la semana en el Banco Nación",
+     "url": "https://www.rionegro.com.ar/economia/dolar-oficial-a-cuanto-cerro-en-el-banco-nacion-este-viernes-6-de-noviembre-2026-y-que-marca-el-feriado-bancario-4787988/"
+    },
+    {
+     "nombre": "El Litoral – Así cerró el dólar en bancos, blue y MEP este viernes 6 de noviembre",
+     "url": "https://www.ellitoral.com/economia/cerro-dolar-bancos-argentinos-viernes-6-noviembre-2026-blue-mep_0_Vg5MT4l5Sx.html"
+    },
+    {
+     "nombre": "Perfil – A cuánto cerró el dólar blue hoy viernes 30 de octubre",
+     "url": "https://perfil.com/economia/a-cuanto-cerro-el-dolar-blue-hoy-viernes-30-de-octubre-a43c46P5lnDq"
+    },
+    {
+     "nombre": "Indicadores.ar – Dólar en octubre 2026",
+     "url": "https://indicadores.ar/cotizacion-dolar/2026-10"
+    }
+   ],
+   "relacionados": [
+    [
+     "/dolar/mep/",
+     "Dólar MEP hoy"
+    ],
+    [
+     "/dolar/proyeccion/",
+     "Proyección del dólar"
+    ]
+   ]
+  },
   {
    "slug": "inflacion-octubre-2026-consultoras-estiman-1-8-a-2-1",
    "categoria": "inflacion",
