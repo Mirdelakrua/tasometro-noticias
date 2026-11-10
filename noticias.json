@@ -1,6 +1,103 @@
 {
- "actualizado": "2026-11-09",
+ "actualizado": "2026-11-10",
  "noticias": [
+  {
+   "slug": "riesgo-pais-baja-debajo-900-puntos-feriado-9-noviembre-2026",
+   "categoria": "mercado-argentino",
+   "titulo": "Riesgo país bajó de 900 puntos con rebote en Wall Street",
+   "h1": "El riesgo país cayó por debajo de los 900 puntos el 9 de noviembre, con bonos y ADRs en alza en Nueva York durante el feriado local",
+   "descripcion": "El riesgo país cayó a 873 puntos el 9 de noviembre con el mercado local cerrado. Qué pasó con bonos, ADRs y dólar, y qué mirar desde el miércoles 11.",
+   "resumen": "Con la Bolsa porteña cerrada por el feriado, el riesgo país bajó hasta la zona de 873-880 puntos el lunes 9, impulsado por bonos y ADRs en Nueva York y la caída del petróleo.",
+   "publicado": "2026-11-10T08:42:23-03:00",
+   "modificado": "2026-11-10T08:42:23-03:00",
+   "cuerpo": "<p>El <strong>riesgo país bajó el lunes 9 de noviembre de 2026</strong> y volvió por debajo de los 900 puntos básicos, aunque en Buenos Aires no hubo operaciones por el feriado nacional decretado por la visita del papa León XIV. Según los paneles de Rava Bursátil citados por Diario Río Negro, el indicador de JP Morgan <strong>cayó 7% y cerró en 873 puntos</strong>; Rosario Finanzas informó un cierre de 880 puntos, con una baja de 59 unidades. Durante la tarde, Infobae lo ubicaba en 911 puntos, 28 menos que la rueda anterior.</p>\n<h2>Qué pasó en Wall Street con los activos argentinos</h2>\n<p>Con la Bolsa porteña cerrada, la referencia fueron los <strong>bonos y ADRs que cotizan en Nueva York</strong>. Según Río Negro, entre los bonos subieron el GD46 (+1,5%), el AL29 (+0,2%) y el GD30 (+0,1%), mientras que el AE38 cayó 1,6% y el AL30 0,3%. En acciones, se destacaron IRSA (+4,1%), Ternium (+3,9%), Banco Supervielle (+3,6%) y Grupo Galicia (+3,3%). YPF fue la excepción, con una baja de 1,6%, en un día en que el petróleo cayó con fuerza.</p>\n<p>El rebote llega después de una semana muy negativa: según Ámbito, el viernes 6 el MSCI Merval perdió 0,6% y acumuló una caída semanal de 8,7%, con el riesgo país en la zona de 940 puntos. Podés ver la evolución completa en el <a href=\"/riesgo-pais/historico/\">riesgo país histórico</a> y el valor del día en la página de <a href=\"/riesgo-pais/\">riesgo país hoy</a>.</p>\n<h2>Por qué mejoró el clima: el contexto externo</h2>\n<p>El alivio vino de afuera. Según Infobae, a media jornada el S&amp;P 500 subía 2%, el Nasdaq 2,3% y el Dow Jones 1,8%, tras una semana previa de caídas. El petróleo Brent bajó cerca de 5% (Infobae y Diario Huarpe) o más de 6% según Río Negro, que lo ubicó en torno a 92 dólares por barril, luego de que Donald Trump —tras perder las elecciones de medio término— dijera que nuevos ataques a Irán son \"muy improbables\". Un petróleo más barato reduce presiones inflacionarias a nivel global, algo que suele favorecer a los activos de países emergentes.</p>\n<h2>Cómo quedó el dólar</h2>\n<p>Sin mercado local, las cotizaciones de referencia son las del viernes: <strong>oficial a $1.570</strong> y mayorista a $1.545,50. Según Río Negro, el <a href=\"/dolar/mep/\">dólar MEP</a> quedó en $1.583,82 y el contado con liquidación cayó 2,2%, a $1.637,43, con una brecha de apenas 0,9% entre oficial y MEP. Si querés ver qué esperan los analistas para los próximos meses, revisá la <a href=\"/dolar/proyeccion/\">proyección del dólar</a> y las <a href=\"/expectativas-de-mercado/\">expectativas de mercado del REM</a>.</p>\n<h2>Qué mirar desde el miércoles 11</h2>\n<p>El mercado local vuelve a operar el miércoles 11 de noviembre, ya que el martes 10 también es día inhábil. Ese día, según Río Negro, el Ministerio de Economía hará una <strong>licitación de bonos en pesos para renovar $10,5 billones</strong>. El resultado va a mostrar si la mejora del lunes en Nueva York se sostiene cuando operen los bonos en la plaza local.</p>\n<p>Para el ahorrista común, un riesgo país más bajo no cambia de inmediato la tasa de su plazo fijo, pero sí influye en el costo de financiamiento del Estado y de las empresas y en el humor del mercado. Si tenés pesos colocados, podés comparar en el <a href=\"/plazo-fijo/\">ranking de plazo fijo</a> y en el de <a href=\"/billeteras/\">billeteras virtuales</a>; si ahorrás en dólares, existen alternativas como los <a href=\"/fondos-renta-fija-dolares/\">fondos de renta fija en dólares</a>. La decisión es de cada persona según su perfil y sus plazos.</p>",
+   "datos_clave": [
+    [
+     "Riesgo país (9/11)",
+     "873 pb",
+     "-7% según Rava; otras fuentes: 880"
+    ],
+    [
+     "Dólar oficial BNA",
+     "$1.570",
+     "cierre del viernes 6/11"
+    ],
+    [
+     "Licitación del Tesoro (11/11)",
+     "$10,5 billones",
+     "vencimientos en pesos a renovar"
+    ]
+   ],
+   "grafico": {
+    "titulo": "Riesgo país: cierres recientes",
+    "descripcion": "Puntos básicos (EMBI de JP Morgan), cierres seleccionados",
+    "sufijo": " pb",
+    "items": [
+     [
+      "30/10",
+      787
+     ],
+     [
+      "4/11",
+      852
+     ],
+     [
+      "5/11",
+      925
+     ],
+     [
+      "9/11",
+      873
+     ]
+    ]
+   },
+   "faqs": [
+    [
+     "¿Cuánto cerró el riesgo país el 9 de noviembre de 2026?",
+     "En 873 puntos según Rava Bursátil (citado por Río Negro) y en 880 según Rosario Finanzas. Venía de la zona de 940 puntos."
+    ],
+    [
+     "¿Por qué bajó si el mercado argentino estaba cerrado?",
+     "El indicador se calcula con los bonos argentinos que cotizan en el exterior, que subieron en Nueva York en un día positivo para los mercados globales."
+    ],
+    [
+     "¿Cuándo vuelve a operar el mercado local?",
+     "El miércoles 11 de noviembre, después de los días inhábiles del lunes 9 y el martes 10."
+    ]
+   ],
+   "fuentes": [
+    {
+     "nombre": "Diario Río Negro",
+     "url": "https://www.rionegro.com.ar/economia/el-riesgo-pais-perforo-los-870-puntos-en-pleno-feriado-por-el-papa-el-impacto-del-alivio-externo-este-lunes-9-4791566/"
+    },
+    {
+     "nombre": "Infobae",
+     "url": "https://www.infobae.com/economia/2026/11/09/cae-el-riesgo-pais-argentino-en-una-sesion-positiva-para-los-mercados-internacionales/"
+    },
+    {
+     "nombre": "Ámbito",
+     "url": "https://www.ambito.com/finanzas/los-adrs-rebotan-wall-street-mientras-no-hay-operatoria-local-el-feriado-n6343184"
+    },
+    {
+     "nombre": "Rosario Finanzas",
+     "url": "https://rosariofinanzas.ar/noticias/riesgo-pais-baja-de-900-puntos-y-acciones-argentinas-rebotan-3-en-wall-street"
+    },
+    {
+     "nombre": "Diario Huarpe",
+     "url": "https://www.diariohuarpe.com/nota/acciones-argentinas-subieron-en-wall-street-mientras-bajo-el-riesgo-pais-202611916110"
+    }
+   ],
+   "relacionados": [
+    [
+     "/riesgo-pais/historico/",
+     "Riesgo país histórico"
+    ],
+    [
+     "/dolar/mep/",
+     "Dólar MEP hoy"
+    ]
+   ]
+  },
   {
    "slug": "dolar-cierre-semana-6-noviembre-2026-blue-debajo-oficial",
    "categoria": "dolar",
