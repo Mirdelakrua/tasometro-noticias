@@ -1,6 +1,99 @@
 {
- "actualizado": "2026-11-10",
+ "actualizado": "2026-11-11",
  "noticias": [
+  {
+   "slug": "inflacion-eeuu-octubre-2026-fed-suba-tasas-diciembre",
+   "categoria": "mercado-internacional",
+   "titulo": "Inflación de EE.UU. 0,4%: la Fed apunta a subir tasas",
+   "h1": "La inflación de Estados Unidos fue de 0,4% en octubre y el mercado da casi por segura una suba de tasas de la Fed en diciembre",
+   "descripcion": "La inflación de EE.UU. fue de 0,4% en octubre y el mercado da casi por segura una suba de la Fed el 9 de diciembre. Qué implica para el riesgo país.",
+   "resumen": "La inflación de Estados Unidos fue de 0,4% en octubre, por encima de lo esperado, y el mercado descuenta casi con certeza una suba de tasas de la Fed el 9 de diciembre. Qué puede implicar para Argentina.",
+   "publicado": "2026-11-11T08:48:07-03:00",
+   "modificado": "2026-11-11T08:48:07-03:00",
+   "cuerpo": "<p>La <strong>inflación de Estados Unidos fue de 0,4% en octubre</strong>, según el índice de precios al consumidor que se difundió el martes 10 de noviembre de 2026. El dato superó en una décima lo que esperaban los analistas (0,3%) y reforzó la expectativa de que la <strong>Reserva Federal (Fed) vuelva a subir la tasa de interés en su reunión del 9 de diciembre</strong>. Aunque es un dato de otro país, influye sobre el riesgo país, los bonos y el dólar en Argentina.</p>\n<h2>Qué mostró el dato de inflación</h2>\n<p>Según Infobae, la inflación subyacente —que excluye alimentos y energía— subió 0,3% mensual, por encima del 0,2% previsto. Es el tercer mes seguido con un índice general de al menos 0,4%: 0,4% en agosto, 0,6% en septiembre y 0,4% en octubre. Esta vez no se publicó la variación interanual, porque el cierre del gobierno federal de 2025 impidió relevar precios en octubre del año pasado; en septiembre la interanual había sido de 3,7%.</p>\n<ul>\n<li><strong>Energía:</strong> subió 0,7%, contra 5,2% en septiembre.</li>\n<li><strong>Vivienda:</strong> aumentó 0,3% y explicó más del 30% de la suba del mes.</li>\n<li><strong>Nafta y electricidad:</strong> 1% y 0,9%, respectivamente.</li>\n</ul>\n<p>Perfil, con cálculos de Bloomberg, señaló que la inflación subyacente anualizada de los últimos tres meses llega a 3,7%. También recordó que el gobernador de la Fed Christopher Waller había dicho que un dato subyacente de 0,3% o más podía llevar a pensar en un ajuste mayor, de medio punto.</p>\n<h2>Qué espera el mercado de la Fed</h2>\n<p>La Fed tiene hoy su tasa en un rango de <strong>3,75% a 4%</strong>, luego de subirla 0,25 puntos el 16 de septiembre y de mantenerla en octubre con una votación de 10 a 2. Según la herramienta FedWatch de CME Group citada por Infobae, después del dato la probabilidad de al menos una suba de 0,25 puntos en diciembre pasó a ser prácticamente total, y la de una suba de 0,5 puntos superó el 10%.</p>\n<p>La reacción fue inmediata: el rendimiento del bono del Tesoro a 2 años subió casi 19 puntos básicos, hasta 4,736%, su mayor alza diaria desde abril de 2025. En Wall Street, el martes 10 el Dow Jones cayó 0,30%, el S&amp;P 500 0,38% y el Nasdaq 0,74%.</p>\n<h2>Por qué le importa a un ahorrista argentino</h2>\n<p>Cuando las tasas en Estados Unidos suben, los bonos del Tesoro estadounidense ofrecen más rendimiento sin riesgo, y los inversores suelen exigir más a los países emergentes para prestarles. Eso tiende a presionar sobre los bonos argentinos y el <a href=\"/riesgo-pais/\">riesgo país</a>, que a su vez influye en el costo de financiamiento del país y en el clima del mercado cambiario.</p>\n<p>Por ahora, el efecto local fue acotado. Con el mercado porteño cerrado por los feriados del lunes 9 y el martes 10, el riesgo país bajó a 853 puntos el martes, 2,29% menos que la rueda previa, según Infobae, mientras los bonos subieron 0,36% en promedio. Los ADRs, en cambio, cerraron mayormente en baja, con caídas de 2,13% en YPF y 1,65% en Grupo Galicia. Podés seguir la evolución en el <a href=\"/riesgo-pais/historico/\">riesgo país histórico</a>.</p>\n<h2>Qué mirar desde hoy</h2>\n<p>El mercado local reabre este miércoles 11, aunque con un detalle: en Estados Unidos es feriado por el Día de los Veteranos. Las bolsas de Nueva York operan, pero el mercado de bonos del Tesoro permanece cerrado, y Infobae indica que la normalización de las referencias externas se espera para el jueves 12.</p>\n<p>Para quien ahorra en pesos o en dólares, conviene mirar tres cosas: el <a href=\"/dolar/mep/\">dólar MEP hoy</a>, que vuelve a cotizar tras los feriados; la <a href=\"/dolar/proyeccion/\">proyección del dólar</a> y las <a href=\"/expectativas-de-mercado/\">expectativas de mercado del REM</a>, para tener una referencia de mediano plazo; y si tenés dólares invertidos, cómo se comportan los <a href=\"/fondos-renta-fija-dolares/\">fondos de renta fija en dólares</a>, que suelen ser sensibles a las tasas internacionales. La decisión es de cada persona según su perfil y sus plazos.</p>",
+   "datos_clave": [
+    [
+     "Inflación EE.UU. octubre",
+     "0,4%",
+     "Esperado: 0,3%. Subyacente: 0,3%"
+    ],
+    [
+     "Tasa de la Fed",
+     "3,75%-4%",
+     "Próxima decisión: 9 de diciembre"
+    ],
+    [
+     "Riesgo país (10/11)",
+     "853 pb",
+     "-2,29% en la rueda, según Infobae"
+    ]
+   ],
+   "grafico": {
+    "titulo": "Inflación mensual de Estados Unidos",
+    "descripcion": "Variación mensual del índice de precios al consumidor (IPC), según Infobae.",
+    "sufijo": "%",
+    "items": [
+     [
+      "Agosto",
+      0.4
+     ],
+     [
+      "Septiembre",
+      0.6
+     ],
+     [
+      "Octubre",
+      0.4
+     ]
+    ]
+   },
+   "faqs": [
+    [
+     "¿Cuándo decide la Fed su próxima tasa?",
+     "En la reunión del 8 y 9 de diciembre de 2026; la decisión se conoce el 9."
+    ],
+    [
+     "¿Por qué una suba de tasas en EE.UU. afecta a Argentina?",
+     "Porque encarece el financiamiento para países emergentes y suele presionar sobre bonos, riesgo país y tipo de cambio."
+    ],
+    [
+     "¿Cómo quedó el riesgo país?",
+     "Bajó a 853 puntos el martes 10 de noviembre, con el mercado local cerrado por feriado."
+    ]
+   ],
+   "fuentes": [
+    {
+     "nombre": "Infobae: qué gastos aumentaron más en octubre",
+     "url": "https://www.infobae.com/estados-unidos/2026/11/10/inflacion-en-estados-unidos-que-gastos-aumentaron-mas-en-octubre-y-que-puede-pasar-con-las-tasas/"
+    },
+    {
+     "nombre": "Infobae: Wall Street cerró en rojo tras el dato de inflación",
+     "url": "https://www.infobae.com/estados-unidos/2026/11/10/wall-street-cerro-en-rojo-tras-el-dato-de-inflacion-en-estados-unidos-que-reforzo-las-expectativas-de-una-suba-de-tasas/"
+    },
+    {
+     "nombre": "Perfil: la inflación en EE.UU. se acelera",
+     "url": "https://www.perfil.com/economia/la-inflacion-en-estados-unidos-se-acelera-y-presiona-a-la-fed-para-subir-las-tasas-a40-aMCAx6z7Ql3g"
+    },
+    {
+     "nombre": "Infobae: tras dos feriados, el mercado argentino se pone al día",
+     "url": "https://www.infobae.com/economia/2026/11/11/tras-dos-feriados-el-mercado-argentino-tendra-que-ponerse-al-dia-con-limitaciones-por-el-dia-festivo-en-eeuu/"
+    },
+    {
+     "nombre": "El Despertador, 11 de noviembre de 2026",
+     "url": "https://eldespertador.substack.com/p/el-despertador-11-de-noviembre-2026"
+    }
+   ],
+   "relacionados": [
+    [
+     "/riesgo-pais/historico/",
+     "Riesgo país histórico"
+    ],
+    [
+     "/dolar/mep/",
+     "Dólar MEP hoy"
+    ]
+   ]
+  },
   {
    "slug": "riesgo-pais-baja-debajo-900-puntos-feriado-9-noviembre-2026",
    "categoria": "mercado-argentino",
