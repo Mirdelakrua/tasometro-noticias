@@ -1,6 +1,204 @@
 {
- "actualizado": "2026-11-11",
+ "actualizado": "2026-11-12",
  "noticias": [
+  {
+   "slug": "licitacion-tesoro-11-noviembre-2026-rollover-84-libera-pesos",
+   "categoria": "tasas",
+   "titulo": "Licitación: el Tesoro renovó 84% y liberó $1,7 billones",
+   "h1": "El Tesoro adjudicó $8,87 billones en la licitación del 11 de noviembre: el rollover real fue de 84% y quedaron $1,7 billones en el mercado",
+   "descripcion": "El Tesoro colocó $8,87 billones el 11 de noviembre y el rollover efectivo fue de 84%: liberó $1,7 billones. Qué puede pasar con las tasas de plazo fijo.",
+   "resumen": "En la licitación del miércoles 11 de noviembre el Tesoro adjudicó $8,87 billones. Oficialmente informó un rollover de 103%, pero incluyendo todos los vencimientos fue de 84% y se liberaron unos $1,7 billones.",
+   "publicado": "2026-11-12T08:45:00-03:00",
+   "modificado": "2026-11-12T08:45:00-03:00",
+   "cuerpo": "<p>En la <strong>licitación de deuda en pesos del miércoles 11 de noviembre de 2026</strong>, el Tesoro recibió ofertas por $11,60 billones y <strong>adjudicó $8,87 billones</strong>. El Ministerio de Economía informó un rollover de 103,07%, pero ese cálculo dejó afuera dos bonos ajustados por inflación (TX26 y TX28) que también vencían ese día. Incluyéndolos, la renovación efectiva fue de <strong>cerca de 84%</strong> y quedaron en el mercado unos <strong>$1,7 billones</strong>, según el equipo de research de Puente citado por Infobae y BAE Negocios.</p>\n<h2>Qué se licitó y cuánto se colocó</h2>\n<p>Antes de la subasta, iProfesional informaba que el Gobierno buscaba renovar unos $10,5 billones. El menú tuvo cinco instrumentos, cuatro de ellos con vencimiento entre enero y junio de 2027:</p>\n<table>\n<tr><th>Instrumento</th><th>Vencimiento</th><th>Adjudicado</th></tr>\n<tr><td>Letra ajustada por TAMAR (TMA27)</td><td>Abril 2027</td><td>$3,51 billones</td></tr>\n<tr><td>Lecap a tasa fija (S29E7)</td><td>29/01/2027</td><td>$2,15 billones</td></tr>\n<tr><td>Boncap a tasa fija (T30J7)</td><td>30/06/2027</td><td>$1,62 billones</td></tr>\n<tr><td>Letra dólar linked (D15E7)</td><td>15/01/2027</td><td>$1,18 billones</td></tr>\n<tr><td>Boncer CER (TZX28)</td><td>Junio 2028</td><td>$0,40 billones</td></tr>\n</table>\n<p>Según Puente, el Tesoro tuvo que pagar 100 puntos básicos más que en el mercado secundario en los dos instrumentos a tasa fija, y casi no hubo demanda por el TZX28, el único que vence después de las elecciones de 2027. Para la consultora, <em>“es la primera vez que una licitación resulta expansiva desde agosto”</em>.</p>\n<h2>Por qué el Gobierno lo ve como algo positivo</h2>\n<p>Desde Economía hablan del regreso del “punto Anker”: la idea de Luis Caputo de que, cuando los bancos dejan de renovar deuda del Estado, usan esos pesos para prestarle al sector privado. Según Infobae, en el equipo económico sostienen que las tasas no están subiendo, que siguen negativas en términos reales y que esperan un repunte del crédito, aunque más cauteloso después del aumento de la morosidad.</p>\n<h2>Qué puede significar para tu plazo fijo</h2>\n<p>Cuando hay más pesos en el sistema, los bancos suelen tener menos necesidad de salir a captar depósitos, y eso puede presionar a la baja las tasas que ofrecen. No hay garantía de que pase ni de cuánto. Con muchas diferencias entre entidades, antes de renovar conviene mirar el <a href=\"/plazo-fijo/\">ranking de plazo fijo</a> y comparar bancos como <a href=\"/plazo-fijo/banco-voii/\">Banco VOII</a> o <a href=\"/plazo-fijo/bbva/\">BBVA</a>, además de lo que pagan las <a href=\"/billeteras/\">cuentas remuneradas de billeteras</a>.</p>\n<p>La clave es la tasa real: si el rendimiento queda por debajo de la inflación, el ahorro pierde poder de compra. Podés chequear si <a href=\"/plazo-fijo/le-gana-a-la-inflacion/\">el plazo fijo le gana a la inflación</a> y seguir la <a href=\"/inflacion/2026/\">inflación de 2026 mes a mes</a>. Del lado de los créditos, si el plan oficial funciona, podría haber más oferta de <a href=\"/prestamos-personales/\">préstamos personales</a>.</p>\n<h2>Lo que viene: vencimientos más grandes</h2>\n<p>Esta licitación fue chica comparada con las próximas. Según BAE Negocios e iProfesional, el 30 de noviembre vencen unos $29,4 billones y el 15 de diciembre otros $36,6 billones. PPI consideró manejable la subasta del 11 de noviembre, pero anticipó que las dos siguientes serán más exigentes. El resultado de esas licitaciones va a influir en las tasas en pesos de fin de año. La decisión sobre dónde poner los ahorros es de cada persona.</p>",
+   "datos_clave": [
+    [
+     "Adjudicado (11/11)",
+     "$8,87 billones",
+     "Sobre ofertas por $11,60 billones"
+    ],
+    [
+     "Rollover efectivo",
+     "84%",
+     "Oficial: 103,07% sin TX26 y TX28"
+    ],
+    [
+     "Pesos liberados",
+     "$1,7 billones",
+     "Estimación de Puente"
+    ]
+   ],
+   "grafico": {
+    "titulo": "Licitación del 11/11: monto adjudicado por instrumento",
+    "descripcion": "En billones de pesos, según Infobae y BAE Negocios",
+    "sufijo": " billones",
+    "items": [
+     [
+      "TAMAR abr-27",
+      3.51
+     ],
+     [
+      "Lecap ene-27",
+      2.15
+     ],
+     [
+      "Boncap jun-27",
+      1.62
+     ],
+     [
+      "Dólar linked ene-27",
+      1.18
+     ],
+     [
+      "CER jun-28",
+      0.4
+     ]
+    ]
+   },
+   "faqs": [
+    [
+     "¿Qué es el rollover de una licitación?",
+     "Es el porcentaje de los vencimientos de deuda que el Tesoro logra renovar. Si es menor a 100%, devuelve pesos al mercado."
+    ],
+    [
+     "¿Por qué hay dos cifras de rollover?",
+     "Economía informó 103,07% sin contar los bonos TX26 y TX28; incluyéndolos, la renovación fue de alrededor de 84%."
+    ],
+    [
+     "¿Bajan las tasas de plazo fijo?",
+     "Más pesos en el sistema pueden presionarlas a la baja, pero depende de cada banco. Conviene comparar antes de renovar."
+    ]
+   ],
+   "fuentes": [
+    {
+     "nombre": "Infobae: el Gobierno renovó el 84% de los vencimientos",
+     "url": "https://www.infobae.com/economia/2026/11/11/licitacion-clave-el-gobierno-renovo-el-84-de-los-vencimientos-de-deuda-y-libero-pesos-al-mercado/"
+    },
+    {
+     "nombre": "BAE Negocios: rollover del 103% pero liberó $1,7 billones",
+     "url": "https://www.baenegocios.com/economia/el-tesoro-anuncio-un-rollover-del-103-pero-libero-1-7-billones-al-mercado/"
+    },
+    {
+     "nombre": "Infobae: el regreso del “punto Anker”",
+     "url": "https://www.infobae.com/economia/2026/11/12/licitacion-clave-el-equipo-economico-se-entusiasma-por-el-regreso-del-punto-anker-y-espera-un-repunte-del-credito/"
+    },
+    {
+     "nombre": "iProfesional: el Gobierno busca renovar $10,5 billones",
+     "url": "https://www.iprofesional.com/finanzas/468799-el-gobierno-busca-renovar-105-billones-de-deuda-y-cae-el-riesgo-pais"
+    },
+    {
+     "nombre": "BAE Negocios: el Merval opera con cautela",
+     "url": "https://www.baenegocios.com/finanzas/el-merval-opera-con-cautela-y-el-riesgo-pais-ronda-los-850-puntos/"
+    }
+   ],
+   "relacionados": [
+    [
+     "/plazo-fijo/",
+     "Ranking de plazo fijo hoy"
+    ],
+    [
+     "/expectativas-de-mercado/",
+     "Expectativas de mercado (REM)"
+    ]
+   ]
+  },
+  {
+   "slug": "dolar-cierre-11-noviembre-2026-blue-sube-tipo-cambio-real-minimo",
+   "categoria": "dolar",
+   "titulo": "Dólar: el blue subió a $1.565 y el oficial siguió en $1.570",
+   "h1": "Dólar tras los feriados: el oficial cerró estable en $1.570, el blue subió $10 y el tipo de cambio real tocó su menor nivel desde mayo de 2025",
+   "descripcion": "El 11 de noviembre el dólar oficial cerró a $1.570, el blue subió a $1.565 y el MEP quedó en $1.572,64. El tipo de cambio real, en mínimos desde mayo de 2025.",
+   "resumen": "En la primera rueda después de los feriados, el dólar oficial del Banco Nación cerró sin cambios a $1.570 y el blue subió $10, a $1.565. El tipo de cambio real multilateral quedó cerca de 81 puntos, su nivel más bajo desde mayo de 2025.",
+   "publicado": "2026-11-12T08:45:00-03:00",
+   "modificado": "2026-11-12T08:45:00-03:00",
+   "cuerpo": "<p>El mercado cambiario volvió a operar el <strong>miércoles 11 de noviembre de 2026</strong> después de cinco días sin bancos. El <strong>dólar oficial del Banco Nación cerró a $1.570</strong> para la venta, igual que el viernes 6, mientras que el <strong>dólar blue subió $10 hasta $1.565</strong>, según Infobae y Ámbito. El mayorista terminó en $1.544, con una baja de $1,50.</p>\n<h2>Cómo cerraron todas las cotizaciones</h2>\n<table>\n<tr><th>Dólar</th><th>Cierre 11/11</th><th>Dato</th></tr>\n<tr><td>Oficial BNA (venta)</td><td>$1.570</td><td>Compra: $1.520</td></tr>\n<tr><td>Mayorista</td><td>$1.544</td><td>−$1,50 en el día</td></tr>\n<tr><td>Blue (venta)</td><td>$1.565</td><td>+$10 en el día</td></tr>\n<tr><td>MEP</td><td>$1.572,64</td><td>Brecha de 1,9%</td></tr>\n<tr><td>CCL</td><td>$1.665,92</td><td>Brecha de 7,9%</td></tr>\n<tr><td>Tarjeta</td><td>$2.041</td><td>Oficial + 30%</td></tr>\n</table>\n<p>El blue, que en las ruedas anteriores había quedado por debajo del oficial, volvió a acercarse al <a href=\"/dolar/mep/\">dólar MEP</a>. El volumen del contado fue de unos USD 426,8 millones, en una jornada con poca actividad porque en Estados Unidos era feriado.</p>\n<h2>El tipo de cambio real, en mínimos desde mayo de 2025</h2>\n<p>Según Infobae, el Índice de Tipo de Cambio Real Multilateral se ubicó cerca de 81 puntos, el nivel más bajo desde el 8 de mayo de 2025. En términos simples: con la inflación local corriendo por encima de la suba del dólar, en dólares Argentina está más cara frente a sus socios comerciales. En lo que va de 2026, el mayorista acumula una suba de $89 (6,1%).</p>\n<p>El oficial sigue lejos del techo de la banda cambiaria, que el 11 de noviembre estaba en $1.965,55: le faltan $421,55, un 27,3%. Gustavo Ber, del Estudio Ber, dijo a Infobae que el mayorista “amaga con reanudar un ligero deslizamiento”, con los operadores atentos al ritmo de compras del Banco Central. Si querés ver qué espera el mercado para los próximos meses, podés revisar la <a href=\"/dolar/proyeccion/\">proyección del dólar</a> y el último <a href=\"/expectativas-de-mercado/\">relevamiento de expectativas del BCRA (REM)</a>.</p>\n<h2>Compras del BCRA y reservas</h2>\n<p>Según Ámbito, el BCRA compró USD 29 millones el miércoles y suma USD 80 millones en noviembre y USD 16.048 millones en 2026. Sin embargo, las reservas brutas cayeron USD 312 millones, a USD 49.642 millones, su menor nivel en más de un mes, sobre todo por la baja del oro y la suba del dólar frente a otras monedas.</p>\n<h2>Qué significa para el ahorrista</h2>\n<ul>\n<li><strong>Para comprar dólares:</strong> la brecha entre oficial, MEP y blue es chica (menos de 2%), así que conviene comparar el precio final de cada canal, incluidas comisiones.</li>\n<li><strong>Para quien ahorra en pesos:</strong> un dólar estable hace que importe más la tasa que se cobra frente a la inflación. Podés comparar el <a href=\"/plazo-fijo/\">ranking de plazo fijo</a> y lo que rinden las <a href=\"/billeteras/\">billeteras virtuales</a>.</li>\n<li><strong>Para seguir el contexto:</strong> el <a href=\"/riesgo-pais/historico/\">riesgo país histórico</a> ayuda a entender cómo se mueven los bonos, que también influyen en el dólar.</li>\n</ul>\n<p>Ninguno de estos datos anticipa qué va a pasar con el dólar. La decisión de cómo ahorrar es de cada persona.</p>",
+   "datos_clave": [
+    [
+     "Oficial BNA (11/11)",
+     "$1.570",
+     "Venta, sin cambios desde el 6/11"
+    ],
+    [
+     "Dólar blue (11/11)",
+     "$1.565",
+     "+$10 en la rueda"
+    ],
+    [
+     "Tipo de cambio real",
+     "≈81 puntos",
+     "Mínimo desde el 8/5/2025"
+    ]
+   ],
+   "grafico": {
+    "titulo": "Cotizaciones del dólar al cierre del 11 de noviembre",
+    "descripcion": "Precio de venta en pesos, según Ámbito e Infobae",
+    "sufijo": "",
+    "items": [
+     [
+      "Mayorista",
+      1544
+     ],
+     [
+      "Blue",
+      1565
+     ],
+     [
+      "Oficial BNA",
+      1570
+     ],
+     [
+      "MEP",
+      1572.64
+     ],
+     [
+      "CCL",
+      1665.92
+     ]
+    ]
+   },
+   "faqs": [
+    [
+     "¿A cuánto cerró el dólar oficial el 11 de noviembre?",
+     "A $1.570 para la venta en el Banco Nación, sin cambios respecto del viernes 6."
+    ],
+    [
+     "¿Cuánto subió el blue?",
+     "$10, hasta $1.565 para la venta, según Infobae y Ámbito."
+    ],
+    [
+     "¿Qué es el tipo de cambio real?",
+     "Compara el dólar con la inflación local y la de los socios comerciales. Un valor bajo significa que el país está más caro en dólares."
+    ]
+   ],
+   "fuentes": [
+    {
+     "nombre": "Infobae: el dólar bajó tras un largo receso",
+     "url": "https://www.infobae.com/economia/2026/11/11/el-dolar-bajo-tras-un-largo-receso-y-se-profundiza-la-caida-del-tipo-de-cambio-real/"
+    },
+    {
+     "nombre": "Ámbito: a cuánto cerró el dólar el 11 de noviembre",
+     "url": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-miercoles-11-noviembre-n6344114"
+    },
+    {
+     "nombre": "Ámbito: el blue anotó su primer avance en 10 ruedas",
+     "url": "https://www.ambito.com/finanzas/el-dolar-blue-anoto-su-primer-avance-10-ruedas-y-volvio-acercarse-al-mep-n6344130"
+    },
+    {
+     "nombre": "Ámbito: reservas del BCRA en mínimos de más de un mes",
+     "url": "https://www.ambito.com/finanzas/las-reservas-del-bcra-cayeron-minimos-mas-un-mes-pero-se-mantuvieron-las-compras-pese-al-feriado-eeuu-n6344161"
+    }
+   ],
+   "relacionados": [
+    [
+     "/dolar/mep/",
+     "Dólar MEP hoy"
+    ],
+    [
+     "/dolar/proyeccion/",
+     "Proyección del dólar"
+    ]
+   ]
+  },
   {
    "slug": "inflacion-eeuu-octubre-2026-fed-suba-tasas-diciembre",
    "categoria": "mercado-internacional",
