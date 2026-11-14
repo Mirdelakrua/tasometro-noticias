@@ -1,6 +1,111 @@
 {
- "actualizado": "2026-11-13",
+ "actualizado": "2026-11-14",
  "noticias": [
+  {
+   "slug": "riesgo-pais-830-puntos-cierre-semana-13-noviembre-2026",
+   "categoria": "mercado-argentino",
+   "titulo": "Riesgo país cerró en 830 puntos: bajó 109 en la semana",
+   "h1": "El riesgo país cerró la semana en 830 puntos, 109 menos que el viernes anterior, con dólar oficial estable en $1.570",
+   "descripcion": "El riesgo país terminó el 13 de noviembre de 2026 en 830 puntos y cortó un mes de subas. El dólar oficial quedó en $1.570. Qué significa para tus ahorros.",
+   "resumen": "El riesgo país cerró el viernes 13 de noviembre en 830 puntos básicos, 109 menos que el 6 de noviembre. El dólar oficial quedó en $1.570, el blue subió a $1.575 y el Merval cortó cinco caídas seguidas.",
+   "publicado": "2026-11-14T08:42:06-03:00",
+   "modificado": "2026-11-14T08:42:06-03:00",
+   "cuerpo": "<p>El <strong>riesgo país cerró el viernes 13 de noviembre de 2026 en 830 puntos básicos</strong>, según el índice de JP Morgan, y terminó la semana con una baja de <strong>109 puntos</strong> respecto de los 939 del viernes 6. Durante la rueda llegó a tocar un mínimo de 827. En la misma semana, el dólar oficial del Banco Nación se mantuvo en <strong>$1.570</strong> y el S&amp;P Merval cortó una racha de cinco caídas seguidas.</p>\n<h2>Cómo se movió el riesgo país en las últimas semanas</h2>\n<p>El indicador venía de un mes de subas: según la consultora Invecq, había cerrado el viernes 6 de noviembre en 939 puntos, 152 más que una semana antes (787). Tras el feriado por la visita del papa León XIV, el miércoles 11 bajó a 853 puntos, de acuerdo con Forbes Argentina, y el viernes terminó en 830. Economis lo describió como la primera semana de baja en aproximadamente un mes.</p>\n<p>Según Diario Neuquino, los bonos Globales y Bonares recuperaron entre 2,6% y 3% en la semana, aunque el viernes se movieron poco. Podés ver la evolución completa en el <a href=\"/riesgo-pais/historico/\">riesgo país histórico</a> y el valor del día en <a href=\"/riesgo-pais/\">riesgo país hoy</a>.</p>\n<table>\n<tr><th>Indicador</th><th>Cierre 13/11</th><th>Referencia</th></tr>\n<tr><td>Riesgo país</td><td>830 pb</td><td>939 pb el 6/11</td></tr>\n<tr><td>Dólar oficial BNA (venta)</td><td>$1.570</td><td>$1.570 el 6/11</td></tr>\n<tr><td>Dólar blue (venta)</td><td>$1.575</td><td>$1.555 el 6/11</td></tr>\n</table>\n<h2>Dólar estable y Merval en recuperación</h2>\n<p>El dólar oficial no se movió en la semana: cerró a $1.570 para la venta y $1.520 para la compra en el Banco Nación. El blue, en cambio, subió $20 y terminó en $1.575, otra vez apenas por encima del oficial, después de haber quedado por debajo a comienzos de mes. Si querés comparar con otras cotizaciones, tenés el <a href=\"/dolar/mep/\">dólar MEP hoy</a> y la <a href=\"/dolar/proyeccion/\">proyección del dólar</a> según el mercado.</p>\n<p>En la Bolsa porteña, el Merval rebotó el viernes entre 2,5% y 3,1% en pesos, según el relevamiento de cada medio, y cerró la semana con una suba cercana a 0,6%-0,7%. Los ADRs argentinos en Wall Street tuvieron subas de hasta 8,7%, encabezadas por Cresud, según la agencia Noticias Argentinas.</p>\n<h2>Qué pesó en el mercado</h2>\n<p>La semana fue corta por los feriados, con menos volumen operado. Del lado local, los medios señalaron la aceleración de la inflación de octubre (2,2%, el dato más alto desde abril) y el costo de financiamiento de la deuda pública. Desde el exterior, hubo una nueva ola de ventas en acciones tecnológicas de Estados Unidos y expectativas de tasas más altas allí, factores que suelen afectar a los mercados emergentes como Argentina.</p>\n<h2>Qué significa para el ahorrista</h2>\n<p>El riesgo país mide la sobretasa que exige el mercado para prestarle a la Argentina frente a Estados Unidos. Una baja suele ayudar a que mejoren los precios de los bonos y puede aliviar las expectativas sobre el dólar, aunque 830 puntos sigue siendo un nivel alto comparado con los 787 de fines de octubre. Para quien ahorra en pesos, el dato más directo sigue siendo la inflación: conviene comparar el <a href=\"/plazo-fijo/\">ranking de plazo fijo</a> y las <a href=\"/billeteras/\">tasas de billeteras virtuales</a> con lo que espera el mercado en las <a href=\"/expectativas-de-mercado/\">expectativas de mercado</a>. Ninguno de estos datos es una recomendación de inversión: la decisión es de cada persona, según su plazo y su tolerancia al riesgo.</p>",
+   "datos_clave": [
+    [
+     "Riesgo país",
+     "830 pb",
+     "939 pb el viernes 6/11"
+    ],
+    [
+     "Dólar oficial BNA",
+     "$1.570",
+     "Sin cambios en la semana"
+    ],
+    [
+     "Dólar blue",
+     "$1.575",
+     "+$20 en la semana"
+    ]
+   ],
+   "grafico": {
+    "titulo": "Riesgo país: cierres recientes",
+    "descripcion": "Índice EMBI de JP Morgan para Argentina, en puntos básicos (30/10 al 13/11 de 2026)",
+    "sufijo": " pb",
+    "items": [
+     [
+      "30/10",
+      787
+     ],
+     [
+      "6/11",
+      939
+     ],
+     [
+      "11/11",
+      853
+     ],
+     [
+      "13/11",
+      830
+     ]
+    ]
+   },
+   "faqs": [
+    [
+     "¿Cuánto cerró el riesgo país el 13 de noviembre de 2026?",
+     "Cerró en 830 puntos básicos, con un mínimo intradiario de 827, y bajó 109 puntos en la semana."
+    ],
+    [
+     "¿Cuánto cerró el dólar el viernes 13 de noviembre?",
+     "El oficial del Banco Nación cerró a $1.570 para la venta y el blue a $1.575."
+    ],
+    [
+     "¿Qué significa que baje el riesgo país?",
+     "Que el mercado pide una sobretasa menor para prestarle a la Argentina; suele acompañar subas de los bonos, aunque no garantiza nada sobre el futuro."
+    ]
+   ],
+   "fuentes": [
+    {
+     "nombre": "Diario Neuquino – Balance financiero de la semana",
+     "url": "https://diarioneuquino.com.ar/balance-financiero-de-la-semana-el-merval-corto-cinco-caidas-consecutivas-el-dolar-cerro-estable-y-el-riesgo-pais-quedo-en-830-puntos/"
+    },
+    {
+     "nombre": "Noticias Argentinas – El riesgo país cerró la semana en 830 puntos básicos",
+     "url": "https://noticiasargentinas.com/economia/el-riesgo-pais-de-la-argentina-cerro-la-semana-en-830-puntos-basicos_a6af7838097b243a5b555fa2a"
+    },
+    {
+     "nombre": "Diario Popular – El riesgo país cerró la semana en 830 puntos básicos",
+     "url": "https://www.diariopopular.com.ar/economia/el-riesgo-pais-cerro-la-semana-830-puntos-basicos-n929149"
+    },
+    {
+     "nombre": "Economis – El riesgo país quebró un mes de subas",
+     "url": "https://economis.com.ar/el-riesgo-pais-quebro-un-mes-de-subas/"
+    },
+    {
+     "nombre": "FM Luzu – Mercados: riesgo país, dólar y petróleo Brent",
+     "url": "https://fmluzu.com.ar/cierre-mercados-13-noviembre-2026/"
+    },
+    {
+     "nombre": "Forbes Argentina – El mercado retomó ritmo pleno",
+     "url": "https://www.forbesargentina.com/money/el-mercado-retomo-ritmo-pleno-una-buena-jornada-riesgo-pais-dolar-baja-como-seguira-n102283"
+    },
+    {
+     "nombre": "Mercado – Invecq: el riesgo país cerró la semana en 939 puntos",
+     "url": "https://mercado.com.ar/informes-especiales/invecq-el-riesgo-pais-cerro-la-semana-en-939-puntos-152-mas-que-el-viernes-anterior"
+    }
+   ],
+   "relacionados": [
+    [
+     "/riesgo-pais/historico/",
+     "Riesgo país histórico"
+    ],
+    [
+     "/dolar/proyeccion/",
+     "Proyección del dólar"
+    ]
+   ]
+  },
   {
    "slug": "inflacion-octubre-2026-indec-2-2-nucleo-1-5-zona-fria",
    "categoria": "inflacion",
