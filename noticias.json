@@ -1,6 +1,103 @@
 {
- "actualizado": "2026-11-17",
+ "actualizado": "2026-11-18",
  "noticias": [
+  {
+   "slug": "inflacion-mayorista-octubre-2026-1-6-costo-construccion-1-7",
+   "categoria": "inflacion",
+   "titulo": "Inflación mayorista de octubre: 1,6% según el INDEC",
+   "h1": "Los precios mayoristas subieron 1,6% en octubre y el costo de la construcción, 1,7%",
+   "descripcion": "El INDEC informó que los precios mayoristas subieron 1,6% en octubre de 2026 (3,2% en septiembre) y acumulan 24,8% en el año. Qué implica para tus ahorros.",
+   "resumen": "Según el INDEC, los precios mayoristas aumentaron 1,6% en octubre, la mitad que en septiembre, y acumulan 24,8% en 2026. El costo de la construcción subió 1,7%.",
+   "publicado": "2026-11-18T08:47:00-03:00",
+   "modificado": "2026-11-18T08:47:00-03:00",
+   "cuerpo": "<p>El <strong>INDEC informó el martes 17 de noviembre de 2026 que los precios mayoristas subieron 1,6% en octubre</strong>, la mitad que el 3,2% de septiembre. Con este dato, el Índice de Precios Internos al por Mayor (IPIM) acumula <strong>24,8% en los primeros diez meses del año</strong> y <strong>29,8% interanual</strong>. El mismo día se conoció el <strong>costo de la construcción</strong> en el Gran Buenos Aires, que aumentó <strong>1,7%</strong> en el mes.</p>\n<h2>Los números de los precios mayoristas</h2>\n<table>\n<tr><th>Indicador</th><th>Octubre 2026</th></tr>\n<tr><td>IPIM (mayoristas), mensual</td><td>1,6% (septiembre: 3,2%)</td></tr>\n<tr><td>IPIM, acumulado enero-octubre</td><td>24,8%</td></tr>\n<tr><td>IPIM, interanual</td><td>29,8%</td></tr>\n<tr><td>Productos nacionales / importados</td><td>1,6% / 0,9%</td></tr>\n<tr><td>Primarios / manufacturados (nacionales)</td><td>1,1% / 1,8%</td></tr>\n<tr><td>IPIB (precios básicos), mensual</td><td>1,5%</td></tr>\n<tr><td>IPP (productor), mensual</td><td>1,5%</td></tr>\n</table>\n<p>Los rubros que más empujaron el índice fueron los <strong>productos refinados del petróleo</strong>, que subieron 4,6% y aportaron 0,58 puntos porcentuales al total, seguidos por sustancias y productos químicos (0,21 puntos), petróleo crudo y gas (0,19), vehículos automotores, carrocerías y repuestos (0,08) y productos agropecuarios (0,06). La energía eléctrica no tuvo variación en el mes.</p>\n<h2>Costo de la construcción: 1,7% en octubre</h2>\n<p>El Índice del Costo de la Construcción (ICC) del Gran Buenos Aires se aceleró a <strong>1,7%</strong>, desde 1,5% en septiembre. Los materiales subieron 1,5%, mientras que la mano de obra y los gastos generales aumentaron 1,8% cada uno. En lo que va del año el ICC acumula <strong>26,5%</strong> y en los últimos doce meses, <strong>31,9%</strong>. Es un dato útil para quien está construyendo o refaccionando, o evaluando un crédito para hacerlo.</p>\n<h2>Mayoristas vs. minoristas: por qué importa</h2>\n<p>Los precios mayoristas miden lo que se paga en las primeras etapas de la cadena (productores, importadores, distribuidores), antes de que los bienes lleguen a la góndola. Por eso suelen leerse como una pista de lo que puede venir en la <strong>inflación minorista</strong>, aunque el traslado no es automático ni inmediato.</p>\n<p>En octubre los mayoristas (1,6%) subieron menos que los precios al consumidor, que según el INDEC aumentaron <strong>2,2%</strong> en el mismo mes, con un acumulado de 26,3% en el año y 33,1% interanual. La baja de septiembre a octubre en los mayoristas es una señal de alivio en los costos, pero hay que tener en cuenta que el IPC incluye servicios y tarifas, que en octubre fueron los que más subieron. Podés ver la evolución mes a mes en <a href=\"/inflacion/2026/\">inflación mensual 2026</a> y lo que esperan los analistas en las <a href=\"/expectativas-de-mercado/\">expectativas de mercado del REM</a>.</p>\n<h2>Qué significa para tus ahorros</h2>\n<p>Para el ahorrista, la referencia sigue siendo la inflación minorista: es la que define si un depósito en pesos gana o pierde poder de compra. Si la desaceleración de los mayoristas se trasladara a los precios al consumidor en los próximos meses, las tasas en pesos tendrían más chances de quedar por encima de la inflación; si no, el margen se achica.</p>\n<ul>\n<li>Para comparar lo que pagan hoy los bancos, mirá el <a href=\"/plazo-fijo/\">ranking de plazo fijo</a>.</li>\n<li>Para saber si la tasa actual alcanza para cubrir la suba de precios, está la página <a href=\"/plazo-fijo/le-gana-a-la-inflacion/\">¿el plazo fijo le gana a la inflación?</a></li>\n<li>Si necesitás liquidez diaria, podés comparar el rendimiento de las <a href=\"/billeteras/\">billeteras virtuales</a>.</li>\n<li>Si estás pensando en financiar una refacción, revisá el costo total de los <a href=\"/prestamos-personales/\">préstamos personales</a> antes de decidir.</li>\n</ul>\n<p>Ninguno de estos datos es una recomendación de inversión: cada instrumento tiene riesgos y plazos distintos, y la decisión es de cada persona según su situación.</p>",
+   "datos_clave": [
+    [
+     "Mayoristas (IPIM) octubre",
+     "1,6%",
+     "Septiembre: 3,2%"
+    ],
+    [
+     "Mayoristas acumulado 2026",
+     "24,8%",
+     "Interanual: 29,8%"
+    ],
+    [
+     "Costo de la construcción",
+     "1,7%",
+     "Acumulado 2026: 26,5%"
+    ]
+   ],
+   "grafico": {
+    "titulo": "Índices de precios de octubre de 2026",
+    "descripcion": "Variación mensual en %. Fuente: INDEC, vía El Once, Hoy Día y Forbes Argentina.",
+    "sufijo": "%",
+    "items": [
+     [
+      "Mayoristas (IPIM)",
+      1.6
+     ],
+     [
+      "Construcción (ICC)",
+      1.7
+     ],
+     [
+      "Consumidor (IPC)",
+      2.2
+     ]
+    ]
+   },
+   "faqs": [
+    [
+     "¿Cuánto subieron los precios mayoristas en octubre de 2026?",
+     "Según el INDEC, 1,6% mensual, frente a 3,2% en septiembre. Acumulan 24,8% en el año y 29,8% interanual."
+    ],
+    [
+     "¿Qué diferencia hay entre inflación mayorista y minorista?",
+     "La mayorista mide precios en las primeras etapas de la cadena; la minorista (IPC) mide lo que pagan los consumidores, incluidos servicios y tarifas."
+    ],
+    [
+     "¿Cuánto aumentó el costo de la construcción en octubre?",
+     "El ICC del Gran Buenos Aires subió 1,7%, con 26,5% acumulado en el año y 31,9% interanual."
+    ]
+   ],
+   "fuentes": [
+    {
+     "nombre": "El Once – Precios mayoristas 1,6% y construcción 1,7% en octubre",
+     "url": "https://www.elonce.com/economia/los-precios-mayoristas-aumentaron-1-6-y-el-costo-de-la-construccion-subio-1-7-en-octubre.htm"
+    },
+    {
+     "nombre": "Hoy Día – Precios mayoristas subieron 1,6% en octubre",
+     "url": "https://hoydia.com.ar/economia/precios-mayoristas-octubre-indec/"
+    },
+    {
+     "nombre": "El Esquiú – Inflación mayorista 1,6% en octubre",
+     "url": "https://www.elesquiu.com/nacionales/2026/11/17/la-inflacion-mayorista-fue-del-16-en-octubre-y-acumula-un-248-en-lo-que-va-del-ano-603777.html"
+    },
+    {
+     "nombre": "INDEC – Precios mayoristas de septiembre 2026",
+     "url": "https://www.indec.gob.ar/uploads/informesdeprensa/ipm_10_264148D51FC8.pdf"
+    },
+    {
+     "nombre": "INDEC – Calendario de difusión 2º semestre 2026",
+     "url": "https://www.indec.gob.ar/ftp/cuadros/publicaciones/calendario_2sem2026.pdf"
+    },
+    {
+     "nombre": "Forbes Argentina – La inflación de octubre fue 2,2%",
+     "url": "https://www.forbesargentina.com/money/subio-inflacion-octubre-ubico-22-n102387/amp"
+    }
+   ],
+   "relacionados": [
+    [
+     "/inflacion/2026/",
+     "Inflación mensual 2026"
+    ],
+    [
+     "/plazo-fijo/le-gana-a-la-inflacion/",
+     "¿El plazo fijo le gana a la inflación?"
+    ]
+   ]
+  },
   {
    "slug": "riesgo-pais-855-dolar-oficial-1575-blue-1600-16-noviembre-2026",
    "categoria": "mercado-argentino",
