@@ -1,6 +1,220 @@
 {
- "actualizado": "2026-11-18",
+ "actualizado": "2026-11-19",
  "noticias": [
+  {
+   "slug": "dolar-blue-1630-ccl-supera-1700-18-noviembre-2026",
+   "categoria": "dolar",
+   "titulo": "Dólar blue a $1.630 y CCL arriba de $1.700 (18/11)",
+   "h1": "El dólar blue subió $25 y cerró a $1.630; el contado con liquidación superó los $1.700",
+   "descripcion": "El miércoles 18 de noviembre el blue cerró a $1.630, el oficial en el Nación a $1.580 y el CCL en $1.719. Brechas, contexto y qué mirar si ahorrás en pesos.",
+   "resumen": "El blue cerró el 18 de noviembre a $1.630 (+$25), el oficial del Banco Nación a $1.580 y el MEP cerca de $1.622. El contado con liquidación terminó en $1.719, con una brecha de 10,2%.",
+   "publicado": "2026-11-19T08:45:00-03:00",
+   "modificado": "2026-11-19T08:45:00-03:00",
+   "cuerpo": "<p>El <strong>dólar blue cerró el miércoles 18 de noviembre de 2026 a $1.630 para la venta</strong>, con una suba de $25 (+1,56%) en el día, según el relevamiento de El Litoral. Ámbito señaló que el paralelo ya acumula un alza de <strong>más de $60 en cuatro ruedas</strong>. En el Banco Nación, el oficial subió $5 y cerró a <strong>$1.530 / $1.580</strong>, mientras que el <strong>contado con liquidación (CCL) terminó en $1.719,05</strong>, por encima de los $1.700.</p>\n<h2>Cómo cerró cada dólar</h2>\n<table>\n<tr><th>Cotización</th><th>Cierre 18/11 (venta)</th><th>Dato</th></tr>\n<tr><td>Oficial Banco Nación</td><td>$1.580</td><td>+$5 en el día</td></tr>\n<tr><td>Mayorista</td><td>$1.559,50</td><td>Referencia del mercado de cambios</td></tr>\n<tr><td>Blue</td><td>$1.630</td><td>+$25 (+1,56%)</td></tr>\n<tr><td>MEP</td><td>$1.622 aprox.</td><td>Brecha con el oficial: 4,1%</td></tr>\n<tr><td>CCL</td><td>$1.719,05</td><td>Brecha con el oficial: 10,2%</td></tr>\n<tr><td>Tarjeta / turista</td><td>$2.054</td><td>Incluye percepciones</td></tr>\n</table>\n<p>Entre los bancos relevados por El Litoral, el precio de venta más alto fue el de Banco Bica ($1.589) y el más bajo, el de Hipotecario ($1.574). Si vas a comprar dólares por home banking, conviene comparar: la diferencia entre entidades puede ser de varios pesos por dólar. Para dolarizar ahorros de forma legal y sin tope bancario, la alternativa más usada es el <a href=\"/dolar/mep/\">dólar MEP hoy</a>.</p>\n<h2>El contexto: menos compras del BCRA y dólar global fuerte</h2>\n<p>Según Ámbito, el BCRA moderó fuerte sus compras en el mercado (adquirió u$s11 millones) y las reservas brutas bajaron unos u$s190 millones, en parte por la caída del precio del oro. Afuera, el dólar global tocó un máximo de 19 meses, ante mayores apuestas a nuevas subas de tasas en Estados Unidos: las minutas de la Reserva Federal mostraron que casi todos sus funcionarios contemplan subas, y la próxima decisión es el 9 de diciembre.</p>\n<p>En el mercado local, los bonos en dólares rebotaron y el <strong>riesgo país bajó 0,7% hasta 848 puntos</strong>, aunque los ADRs argentinos en Wall Street cayeron hasta casi 7%. Podés seguir la evolución en el <a href=\"/riesgo-pais/historico/\">riesgo país histórico</a>.</p>\n<h2>Qué significa para quien ahorra en pesos</h2>\n<p>La suba del blue y del CCL refleja más demanda de cobertura. Para el ahorrista común, la pregunta de fondo es si el rendimiento en pesos le gana a la suba del dólar. Hoy un plazo fijo a 30 días paga entre 16% y 24% de TNA según el banco, es decir, entre 1,3% y 2% en el mes: podés compararlo en el <a href=\"/plazo-fijo/\">ranking de plazo fijo</a> o con las <a href=\"/billeteras/\">tasas de las billeteras virtuales</a>.</p>\n<p>Del otro lado, lo que espera el mercado para el tipo de cambio de fin de año aparece en las <a href=\"/expectativas-de-mercado/\">expectativas del REM del BCRA</a> y en nuestra <a href=\"/dolar/proyeccion/\">proyección del dólar</a>. Ninguna proyección es una garantía, y la decisión de cuánto dolarizar es de cada persona según sus objetivos y plazos.</p>\n<h2>Qué mirar en los próximos días</h2>\n<ul>\n<li>Si el BCRA retoma compras más grandes o si las reservas siguen bajando.</li>\n<li>La brecha entre el oficial y los dólares financieros: el CCL ya la llevó a 10,2%.</li>\n<li>La decisión de la Fed del 9 de diciembre y su impacto sobre el dólar global y los bonos argentinos.</li>\n</ul>",
+   "datos_clave": [
+    [
+     "Dólar blue",
+     "$1.630",
+     "+$25 el 18/11"
+    ],
+    [
+     "Oficial Banco Nación",
+     "$1.580",
+     "+$5 en el día"
+    ],
+    [
+     "CCL",
+     "$1.719,05",
+     "Brecha de 10,2%"
+    ]
+   ],
+   "grafico": {
+    "titulo": "Dólar al cierre del 18 de noviembre de 2026",
+    "descripcion": "Cotizaciones de venta, en pesos. Fuente: Ámbito y El Litoral.",
+    "sufijo": "$",
+    "items": [
+     [
+      "Mayorista",
+      1559.5
+     ],
+     [
+      "Oficial BNA",
+      1580
+     ],
+     [
+      "MEP",
+      1622
+     ],
+     [
+      "Blue",
+      1630
+     ],
+     [
+      "CCL",
+      1719.05
+     ]
+    ]
+   },
+   "faqs": [
+    [
+     "¿A cuánto cerró el dólar blue el 18 de noviembre de 2026?",
+     "Cerró a $1.610 para la compra y $1.630 para la venta, $25 más que el día anterior."
+    ],
+    [
+     "¿Cuál es la brecha entre el oficial y los dólares financieros?",
+     "Según Ámbito, la brecha del MEP con el oficial fue de 4,1% y la del contado con liquidación, de 10,2%."
+    ],
+    [
+     "¿Por qué sube el dólar?",
+     "Coincidieron menores compras del BCRA, una baja de reservas por el oro y un dólar global en máximos de 19 meses por posibles subas de tasas en EE.UU."
+    ]
+   ],
+   "fuentes": [
+    {
+     "nombre": "Ámbito: dólar hoy, a cuánto cerró este miércoles 18 de noviembre",
+     "url": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-miercoles-18-noviembre-n6346801"
+    },
+    {
+     "nombre": "El Litoral: así cerró el dólar en bancos, blue y MEP el 18 de noviembre",
+     "url": "https://ellitoral.com/economia/cerro-dolar-bancos-argentinos-miercoles-18-noviembre-2026-blue-mep_0_jRnEjMm1ix.html"
+    },
+    {
+     "nombre": "Cadena 3: dólar hoy, a cuánto cerró este miércoles 18 de noviembre",
+     "url": "https://www.cadena3.com/noticia/politica-y-economia/dolar-hoy-dolar-blue-hoy-a-cuanto-cerro-este-miercoles-18-de-noviembre_614486"
+    },
+    {
+     "nombre": "Ámbito: los bonos rebotaron y el riesgo país perforó los 850 puntos",
+     "url": "https://www.ambito.com/finanzas/los-bonos-dolares-suben-pero-el-riesgo-pais-se-mantiene-encima-los-850-puntos-n6346590"
+    }
+   ],
+   "relacionados": [
+    [
+     "/dolar/mep/",
+     "Dólar MEP hoy"
+    ],
+    [
+     "/dolar/proyeccion/",
+     "Proyección del dólar"
+    ]
+   ]
+  },
+  {
+   "slug": "plazo-fijo-tasas-18-noviembre-2026-vs-inflacion-octubre-2-2",
+   "categoria": "tasas",
+   "titulo": "Plazo fijo hoy: tasas de hasta 24% vs. inflación 2,2%",
+   "h1": "Plazo fijo: qué tasa paga cada banco al 18 de noviembre y por qué casi ninguno le gana a la inflación de octubre",
+   "descripcion": "Al 18 de noviembre de 2026 el plazo fijo a 30 días paga entre 16% y 24% de TNA. Con la inflación de octubre en 2,2%, quién rinde más y cuánto ganás.",
+   "resumen": "Según el relevamiento del BCRA del 18 de noviembre, la TNA más alta a 30 días es 24% (1,97% en el mes) y entre los grandes bancos va de 16% a 21,5%. La inflación de octubre fue 2,2%.",
+   "publicado": "2026-11-19T08:45:00-03:00",
+   "modificado": "2026-11-19T08:45:00-03:00",
+   "cuerpo": "<p>Al <strong>miércoles 18 de noviembre de 2026</strong>, la tasa más alta para un <strong>plazo fijo a 30 días es 24% nominal anual (TNA)</strong>, que ofrecen bancos chicos como Bica, CMF, de Comercio, Meridian y Reba, según el comparativo del BCRA publicado por La Nación. Entre los bancos grandes, la mejor tasa es la de <strong>Macro (21,5%)</strong> y la más baja la de Patagonia (16%). Con una <strong>inflación de octubre de 2,2%</strong> informada por el INDEC, prácticamente ningún plazo fijo tradicional le ganó al aumento de precios del último mes.</p>\n<h2>Tasas de plazo fijo a 30 días, banco por banco</h2>\n<table>\n<tr><th>Entidad</th><th>TNA</th><th>Rinde en 30 días</th><th>Con $1 millón ganás</th></tr>\n<tr><td>Bica, CMF, de Comercio, Meridian, Reba</td><td>24%</td><td>1,97%</td><td>$19.726</td></tr>\n<tr><td>Banco Voii, Banco del Sol</td><td>23%</td><td>1,89%</td><td>$18.904</td></tr>\n<tr><td>Macro</td><td>21,5%</td><td>1,77%</td><td>$17.671</td></tr>\n<tr><td>Provincia</td><td>21%</td><td>1,73%</td><td>$17.260</td></tr>\n<tr><td>Nación</td><td>19,25%</td><td>1,58%</td><td>$15.822</td></tr>\n<tr><td>Galicia</td><td>18,25%</td><td>1,50%</td><td>$15.000</td></tr>\n<tr><td>Santander</td><td>18%</td><td>1,48%</td><td>$14.795</td></tr>\n<tr><td>BBVA</td><td>17%</td><td>1,40%</td><td>$13.973</td></tr>\n<tr><td>Patagonia</td><td>16%</td><td>1,32%</td><td>$13.151</td></tr>\n</table>\n<p>El cálculo es interés simple a 30 días (capital × TNA × 30/365), el mismo que usa Infobae en su relevamiento del 18 de noviembre. Podés ver el detalle por entidad en el <a href=\"/plazo-fijo/\">ranking de plazo fijo</a>, o las fichas de <a href=\"/plazo-fijo/banco-voii/\">plazo fijo en Banco Voii</a> y <a href=\"/plazo-fijo/banco-macro/\">Banco Macro</a>.</p>\n<h2>La comparación con la inflación</h2>\n<p>El IPC de octubre subió 2,2%, por encima del 1,9% de septiembre. Contra ese dato, incluso la mejor tasa del mercado (1,97% en el mes) quedó por debajo, y en los bancos grandes la diferencia es mayor: un depósito en BBVA o Santander rinde alrededor de 1,4%-1,5% mensual. Para noviembre, los analistas del REM del BCRA esperaban una inflación de 1,7% en su último relevamiento; si se cumple, las tasas más altas volverían a quedar apenas por encima. Podés seguir los datos mes a mes en <a href=\"/inflacion/2026/\">inflación 2026</a> y en las <a href=\"/expectativas-de-mercado/\">expectativas de mercado</a>.</p>\n<p>Según Infobae, la tasa promedio que pagan los bancos a personas humanas a 30 días fue de <strong>20,03% el 16 de noviembre</strong>, lejos del 28,86% de un año antes y por encima del mínimo de 18,52% de junio de 2026.</p>\n<h2>Plazos más largos y billeteras</h2>\n<p>Algunas entidades pagan más si inmovilizás la plata por más tiempo: según Elonce, Reba ofrece 25% a 60 días y 26% a 90 días, y Banco Voii 23,5% a 60 días y 23,75% a 90 días. Si preferís liquidez diaria, las cuentas remuneradas pagan entre 19% y 24%: Ualá da 19% de base y hasta 24% con su nivel Plus 2, y Naranja X paga 20% hasta $1 millón. Compará en <a href=\"/billeteras/\">billeteras virtuales</a> o en la ficha de <a href=\"/plazo-fijo/uala/\">Ualá</a>.</p>\n<h2>Qué tener en cuenta</h2>\n<ul>\n<li>Las tasas más altas suelen ser de bancos chicos y online, con alta digital; los depósitos están cubiertos por el seguro de garantía hasta el tope vigente.</li>\n<li>La tasa que cuenta es la del día en que constituís el plazo fijo: verificala en la entidad antes de invertir.</li>\n<li>Si la inflación baja hacia lo que espera el REM, una tasa de 23%-24% vuelve a quedar levemente positiva; si se mantiene en 2% o más, no.</li>\n</ul>\n<p>Ninguna de estas opciones es una recomendación: la decisión es de cada persona según su plazo y su tolerancia al riesgo.</p>",
+   "datos_clave": [
+    [
+     "TNA más alta a 30 días",
+     "24%",
+     "1,97% en el mes"
+    ],
+    [
+     "Mejor banco grande",
+     "21,5%",
+     "Macro"
+    ],
+    [
+     "Inflación de octubre",
+     "2,2%",
+     "INDEC"
+    ]
+   ],
+   "grafico": {
+    "titulo": "TNA a 30 días por entidad",
+    "descripcion": "Comparativo del BCRA al 18 de noviembre de 2026",
+    "sufijo": "%",
+    "items": [
+     [
+      "Bica/CMF/Reba",
+      24
+     ],
+     [
+      "Voii",
+      23
+     ],
+     [
+      "Macro",
+      21.5
+     ],
+     [
+      "Provincia",
+      21
+     ],
+     [
+      "Nación",
+      19.25
+     ],
+     [
+      "Galicia",
+      18.25
+     ],
+     [
+      "Santander",
+      18
+     ],
+     [
+      "BBVA",
+      17
+     ],
+     [
+      "Patagonia",
+      16
+     ]
+    ]
+   },
+   "faqs": [
+    [
+     "¿Qué banco paga más por un plazo fijo hoy?",
+     "Al 18 de noviembre de 2026, la TNA más alta a 30 días es 24% (Bica, CMF, de Comercio, Meridian y Reba). Entre los grandes, Macro paga 21,5%."
+    ],
+    [
+     "¿Cuánto gano con $1 millón a 30 días?",
+     "Con una TNA de 24% ganás unos $19.726; con 17%, alrededor de $13.973."
+    ],
+    [
+     "¿El plazo fijo le gana a la inflación?",
+     "Contra el 2,2% de octubre, no: la mejor tasa rinde 1,97% en 30 días."
+    ]
+   ],
+   "fuentes": [
+    {
+     "nombre": "La Nación: plazo fijo, tasa banco por banco el miércoles 18 de noviembre",
+     "url": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-miercoles-18-de-noviembre-nid18112026/"
+    },
+    {
+     "nombre": "Infobae: plazo fijo, cuánto pagan los bancos por $1 millón a 30 días",
+     "url": "https://www.infobae.com/economia/2026/11/18/plazo-fijo-cuanto-pagan-los-bancos-por-depositos-de-1-millon-a-30-dias/"
+    },
+    {
+     "nombre": "Elonce: billeteras virtuales y plazos fijos, tasas del 18 de noviembre",
+     "url": "https://www.elonce.com/economia/billeteras-virtuales-y-plazos-fijos-cuales-pagan-mas-intereses-y-que-tasas-ofrecen-1.htm"
+    },
+    {
+     "nombre": "Criterio Online: la inflación de octubre fue de 2,2%",
+     "url": "https://www.criterioonline.com/2026/11/indec-la-inflacion-de-octubre-fue-de-22-y-ya-acumula-263-en-lo-que-va-del-ano/"
+    },
+    {
+     "nombre": "El Cronista: REM, a cuánto llegará el dólar y la inflación",
+     "url": "https://www.cronista.com/economia-politica/rem-a-cuanto-llegara-el-dolar-y-cual-sera-la-inflacion-para-fin-de-ano/"
+    }
+   ],
+   "relacionados": [
+    [
+     "/plazo-fijo/le-gana-a-la-inflacion/",
+     "¿El plazo fijo le gana a la inflación?"
+    ],
+    [
+     "/plazo-fijo/cuanto-rinde-1-millon/",
+     "Cuánto rinde $1 millón en plazo fijo"
+    ]
+   ]
+  },
   {
    "slug": "inflacion-mayorista-octubre-2026-1-6-costo-construccion-1-7",
    "categoria": "inflacion",
