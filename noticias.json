@@ -1,6 +1,208 @@
 {
- "actualizado": "2026-11-20",
+ "actualizado": "2026-11-21",
  "noticias": [
+  {
+   "slug": "riesgo-pais-supera-1000-puntos-1071-20-noviembre-2026",
+   "categoria": "mercado-argentino",
+   "titulo": "Riesgo país supera los 1.000 puntos: llegó a 1.071",
+   "h1": "El riesgo país superó los 1.000 puntos por primera vez en más de un año y llegó a 1.071",
+   "descripcion": "El viernes 20 de noviembre el riesgo país llegó a 1.071 puntos, su nivel más alto desde octubre de 2025. Qué pasó con los bonos y qué implica para vos.",
+   "resumen": "El viernes 20 de noviembre de 2026 el riesgo país llegó a 1.071 puntos y superó la barrera de los 1.000 por primera vez desde el 24 de octubre de 2025. Los bonos en dólares cayeron hasta más de 3% y el Merval terminó casi sin cambios.",
+   "publicado": "2026-11-21T08:45:00-03:00",
+   "modificado": "2026-11-21T08:45:00-03:00",
+   "cuerpo": "<p>El <strong>riesgo país llegó a 1.071 puntos el viernes 20 de noviembre de 2026</strong> y superó la barrera de los 1.000 por primera vez desde el 24 de octubre de 2025, según informaron Perfil, Puntal y La Capital. Un día antes, el jueves 19, había cerrado en 931 puntos, después de arrancar esa rueda en 848. Es decir que en dos jornadas el indicador de JP Morgan sumó más de 200 puntos.</p><h2>Cómo fue la rueda del viernes</h2><p>La suba del riesgo país fue el reflejo de una nueva ola de ventas sobre los bonos soberanos en dólares. Según Perfil, los <strong>Globales cayeron hasta más de 3%</strong> y los <strong>Bonares hasta 2,8%</strong>; La Capital registró bajas todavía mayores en algunos títulos. DolarHoy calculó que en la semana los bonos en dólares acumularon una pérdida de alrededor de 6%.</p><table><tr><th>Indicador</th><th>Dato</th><th>Fecha</th></tr><tr><td>Riesgo país</td><td>1.071 puntos</td><td>Viernes 20/11</td></tr><tr><td>Riesgo país (cierre previo)</td><td>931 puntos</td><td>Jueves 19/11</td></tr><tr><td>S&amp;P Merval</td><td>81.225 puntos (+0,1%)</td><td>Viernes 20/11</td></tr><tr><td>Merval en noviembre</td><td>-11,8%</td><td>Acumulado del mes</td></tr><tr><td>Dólar oficial Banco Nación</td><td>$1.600 (máximo de la rueda)</td><td>Viernes 20/11</td></tr></table><p>En acciones, el panorama fue mixto: el <strong>S&amp;P Merval subió apenas 0,1% hasta 81.225 puntos</strong>, aunque en noviembre acumula una caída de 11,8%. En Wall Street, entre los ADRs hubo bajas como Edenor (-5,7%) y Grupo Supervielle (-5%), mientras que Globant subió 4%. Si querés ver cómo se compara este salto con otros momentos, podés revisar el <a href=\"/riesgo-pais/historico/\">riesgo país histórico</a>.</p><h2>Por qué sube el riesgo país</h2><p>Los analistas consultados por los medios apuntan sobre todo a factores políticos y a un contexto internacional más adverso. Santiago Casas, economista jefe de Ecoanalytics, dijo a Perfil que <em>\"el mercado le está poniendo precio, por anticipado, al riesgo político de 2027\"</em>. DolarHoy sumó la aversión global al riesgo (con caídas en el Nasdaq) y las tasas altas en Estados Unidos. La Capital citó a IEB, que remarcó que el indicador pasó de 400 puntos en julio a 1.000 en cuatro meses.</p><p>Para seguir lo que espera el mercado sobre inflación, tasas y tipo de cambio, sirven las <a href=\"/expectativas-de-mercado/\">expectativas de mercado del REM</a>.</p><h2>Qué significa para el ahorrista común</h2><p>El riesgo país mide cuánta tasa extra le pide el mercado a la Argentina respecto de los bonos de Estados Unidos. Cuando sube, se encarece el financiamiento para el Estado y las empresas, y suele aparecer más presión sobre el dólar. Para quien tiene ahorros en pesos o en dólares, algunos puntos a tener en cuenta:</p><ul><li>Si tenés bonos en dólares o fondos que los incluyen, su precio cayó en la semana; conviene mirar el horizonte de tu inversión antes de reaccionar en caliente.</li><li>Si ahorrás en pesos, podés comparar el <a href=\"/plazo-fijo/\">ranking de plazo fijo</a> y las tasas de las <a href=\"/billeteras/\">billeteras virtuales</a> contra la <a href=\"/inflacion/2026/\">inflación de 2026</a>.</li><li>Si pensás dolarizar parte de tus ahorros, podés seguir el <a href=\"/dolar/mep/\">dólar MEP hoy</a>, que también subió el viernes.</li></ul><p>Ninguno de estos datos es una recomendación de inversión: la decisión es de cada persona según su situación y su tolerancia al riesgo.</p><h2>Qué viene</h2><p>El lunes 23 de noviembre es feriado nacional por el Día de la Soberanía Nacional, así que el mercado local vuelve a operar recién el martes 24, en una semana corta y de cierre de mes. Habrá que ver si los bonos encuentran un piso o si continúa la presión vendedora que llevó al riesgo país a su nivel más alto en más de un año.</p>",
+   "datos_clave": [
+    [
+     "Riesgo país",
+     "1.071 puntos",
+     "Viernes 20/11, JP Morgan"
+    ],
+    [
+     "Cierre del jueves",
+     "931 puntos",
+     "Había empezado en 848"
+    ],
+    [
+     "S&P Merval",
+     "81.225 puntos",
+     "+0,1%; -11,8% en noviembre"
+    ]
+   ],
+   "grafico": {
+    "titulo": "Riesgo país en la semana",
+    "descripcion": "Puntos básicos. Fuente: NoticiasNQN, La Capital y Perfil.",
+    "sufijo": " pb",
+    "items": [
+     [
+      "18/11",
+      848
+     ],
+     [
+      "19/11",
+      931
+     ],
+     [
+      "20/11",
+      1071
+     ]
+    ]
+   },
+   "faqs": [
+    [
+     "¿A cuánto llegó el riesgo país el 20 de noviembre de 2026?",
+     "Llegó a 1.071 puntos, por encima de los 1.000 por primera vez desde el 24 de octubre de 2025."
+    ],
+    [
+     "¿Por qué subió tanto el riesgo país?",
+     "Por ventas de bonos en dólares; los analistas citan el riesgo político de cara a 2027 y un contexto internacional de aversión al riesgo."
+    ],
+    [
+     "¿Hay mercado el lunes 23 de noviembre?",
+     "No. Es feriado nacional por el Día de la Soberanía Nacional; el mercado vuelve a operar el martes 24."
+    ]
+   ],
+   "fuentes": [
+    {
+     "nombre": "Perfil",
+     "url": "https://www.perfil.com/economia/el-riesgo-pais-llego-a-los-1.071-puntos-el-nivel-mas-alto-en-13-meses-y-el-dolar-toco-los-1600-aVCyg1j6EV7k"
+    },
+    {
+     "nombre": "Puntal",
+     "url": "https://www.puntal.com.ar/riesgo-pais/el-riesgo-pais-subio-1071-puntos-y-el-dolar-toca-un-nuevo-record-n268588"
+    },
+    {
+     "nombre": "La Capital",
+     "url": "https://www.lacapital.com.ar/economia/mercados-crisis-el-riesgo-pais-quebro-la-barrera-los-mil-puntos-n10293404.html"
+    },
+    {
+     "nombre": "NoticiasNQN",
+     "url": "https://www.noticiasnqn.com.ar/noticias/2026/11/20/361680-el-riesgo-pais-supero-los-1000-puntos-y-crece-la-tension-financiera"
+    },
+    {
+     "nombre": "DolarHoy",
+     "url": "https://dolarhoy.com/herramientas-de-inversion/el-riesgo-pais-supero-los-1-000-puntos-por-primera-vez-en-13-meses-y-los-bonos-caen-mas-de-3-2026112014420"
+    },
+    {
+     "nombre": "Infozona",
+     "url": "https://www.infozona.com.ar/?p=410037"
+    }
+   ],
+   "relacionados": [
+    [
+     "/riesgo-pais/",
+     "Riesgo país hoy"
+    ],
+    [
+     "/riesgo-pais/historico/",
+     "Riesgo país histórico"
+    ]
+   ]
+  },
+  {
+   "slug": "dolar-blue-1670-sube-100-semana-20-noviembre-2026",
+   "categoria": "dolar",
+   "titulo": "Dólar blue a $1.670: subió $100 en la semana",
+   "h1": "El dólar blue cerró a $1.670 y subió $100 en la semana, su mayor avance en más de dos años",
+   "descripcion": "El blue cerró el 20 de noviembre a $1.670 y sumó $100 en la semana. El oficial terminó a $1.595 y el mayorista a $1.580. Cómo quedó cada dólar.",
+   "resumen": "El viernes 20 de noviembre de 2026 el dólar blue cerró a $1.670 para la venta, con una suba semanal de $100, la mayor en más de dos años según Ámbito. El oficial del Banco Nación cerró a $1.595 y el mayorista a $1.580.",
+   "publicado": "2026-11-21T08:45:00-03:00",
+   "modificado": "2026-11-21T08:45:00-03:00",
+   "cuerpo": "<p>El <strong>dólar blue cerró el viernes 20 de noviembre de 2026 a $1.670 para la venta</strong>, con una suba de $30 en el día, según los relevamientos de El Litoral y Perfil. Ámbito, que lo ubicó entre $1.665 y $1.675 según el horario de su relevamiento, destacó que el paralelo <strong>trepó $100 en la semana</strong>, el mayor avance nominal semanal desde mayo de 2024.</p><h2>Cómo cerró cada dólar el viernes</h2><table><tr><th>Cotización</th><th>Cierre 20/11 (venta)</th><th>Dato</th></tr><tr><td>Oficial Banco Nación</td><td>$1.595</td><td>Compra a $1.545</td></tr><tr><td>Mayorista</td><td>$1.580</td><td>+$15 en el día; +$36,50 en la semana</td></tr><tr><td>Blue</td><td>$1.670</td><td>+$30 en el día; +$100 en la semana</td></tr><tr><td>MEP</td><td>$1.678,60</td><td>Brecha de 6,5%</td></tr><tr><td>CCL</td><td>$1.783,80</td><td>Brecha de 13,3%</td></tr><tr><td>Tarjeta / turista</td><td>$2.073,50</td><td>Incluye percepciones</td></tr></table><p>Los valores de MEP y CCL son los de Perfil; Ámbito los informó algo más altos ($1.682,79 y $1.790,39). En el Banco Nación el oficial llegó a tocar $1.600 durante la rueda, según Perfil, y terminó en <strong>$1.545 / $1.595</strong>. Entre los bancos relevados por El Litoral, la venta fue de entre $1.594 (Hipotecario) y $1.605 (Bica).</p><h2>Por qué sube el dólar</h2><p>Según Ámbito, la suba respondió a la demanda de cobertura y de pagos al exterior, a la volatilidad internacional y al cierre de posiciones antes de una nueva semana corta y del fin de mes. El <strong>mayorista marcó $1.580</strong>, su máximo intradiario, y acumuló en la semana la mayor suba desde mediados de junio. El mismo medio informó que el BCRA no intervino el viernes, compró u$s121 millones en la semana y acumula u$s344 millones en noviembre.</p><p>El movimiento coincidió con un fuerte deterioro de los bonos: el riesgo país superó los 1.000 puntos y llegó a 1.071, su nivel más alto desde octubre de 2025. Para ver qué espera el mercado para el tipo de cambio en los próximos meses, podés consultar la <a href=\"/dolar/proyeccion/\">proyección del dólar</a> y las <a href=\"/expectativas-de-mercado/\">expectativas de mercado del REM</a>.</p><h2>Qué significa para tus ahorros</h2><p>Con la brecha en alza, el precio al que podés comprar dólares depende mucho del canal que uses. Si querés dolarizar de forma legal, el <a href=\"/dolar/mep/\">dólar MEP hoy</a> sigue siendo la referencia más usada; si preferís quedarte en pesos, conviene comparar el <a href=\"/plazo-fijo/\">ranking de plazo fijo</a> y los rendimientos de las <a href=\"/billeteras/\">billeteras virtuales</a> para ver cuánto te pagan frente a la <a href=\"/inflacion/2026/\">inflación de 2026</a>.</p><p>Ninguna de estas opciones es una recomendación: la decisión es de cada persona, según sus objetivos y su horizonte.</p><h2>Ojo con el fin de semana largo</h2><p>El lunes 23 de noviembre es feriado nacional por el Día de la Soberanía Nacional. Los bancos no atienden en sucursales, aunque cajeros, home banking y aplicaciones siguen disponibles; algunas transferencias y operaciones que dependen de días hábiles pueden acreditarse con otros plazos. El mercado de cambios vuelve a operar el martes 24.</p>",
+   "datos_clave": [
+    [
+     "Dólar blue",
+     "$1.670",
+     "+$100 en la semana"
+    ],
+    [
+     "Oficial Banco Nación",
+     "$1.595",
+     "Tocó $1.600 en la rueda"
+    ],
+    [
+     "Mayorista",
+     "$1.580",
+     "+$36,50 en la semana"
+    ]
+   ],
+   "grafico": {
+    "titulo": "Dólar al cierre del 20 de noviembre de 2026",
+    "descripcion": "Cotizaciones de venta, en pesos. Fuente: Ámbito, El Litoral y Perfil.",
+    "sufijo": "$",
+    "items": [
+     [
+      "Mayorista",
+      1580
+     ],
+     [
+      "Oficial BNA",
+      1595
+     ],
+     [
+      "Blue",
+      1670
+     ],
+     [
+      "MEP",
+      1678.6
+     ],
+     [
+      "CCL",
+      1783.8
+     ]
+    ]
+   },
+   "faqs": [
+    [
+     "¿A cuánto cerró el dólar blue el 20 de noviembre de 2026?",
+     "Cerró a $1.670 para la venta, $30 más que el jueves y $100 más que una semana antes."
+    ],
+    [
+     "¿A cuánto cerró el dólar oficial?",
+     "En el Banco Nación cerró a $1.545 para la compra y $1.595 para la venta; el mayorista terminó en $1.580."
+    ],
+    [
+     "¿Se puede comprar dólares el lunes 23?",
+     "El lunes 23 es feriado nacional y el mercado de cambios no opera; vuelve el martes 24. Apps y home banking siguen funcionando, con plazos distintos para algunas operaciones."
+    ]
+   ],
+   "fuentes": [
+    {
+     "nombre": "Ámbito",
+     "url": "https://www.ambito.com/finanzas/el-dolar-blue-no-detiene-la-escalada-trepo-100-la-semana-el-mayor-avance-mas-dos-anos-n6347748"
+    },
+    {
+     "nombre": "Ámbito",
+     "url": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cerro-este-viernes-20-noviembre-n6347715"
+    },
+    {
+     "nombre": "El Litoral",
+     "url": "https://www.ellitoral.com/economia/cerro-dolar-bancos-argentinos-viernes-20-noviembre-2026-blue-mep_0_oj8HpJYme8.html"
+    },
+    {
+     "nombre": "Perfil",
+     "url": "https://www.perfil.com/live-reports/a-cuanto-cerro-el-dolar-blue-hoy-viernes-20-de-noviembre"
+    },
+    {
+     "nombre": "Perfil",
+     "url": "https://www.perfil.com/economia/el-riesgo-pais-llego-a-los-1.071-puntos-el-nivel-mas-alto-en-13-meses-y-el-dolar-toco-los-1600-aVCyg1j6EV7k"
+    },
+    {
+     "nombre": "Infozona",
+     "url": "https://www.infozona.com.ar/?p=410037"
+    }
+   ],
+   "relacionados": [
+    [
+     "/dolar/mep/",
+     "Dólar MEP hoy"
+    ],
+    [
+     "/dolar/proyeccion/",
+     "Proyección del dólar"
+    ]
+   ]
+  },
   {
    "slug": "riesgo-pais-930-dolar-oficial-1585-record-19-noviembre-2026",
    "categoria": "mercado-argentino",
