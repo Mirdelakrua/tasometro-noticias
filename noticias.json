@@ -1,6 +1,99 @@
 {
- "actualizado": "2026-11-21",
+ "actualizado": "2026-11-22",
  "noticias": [
+  {
+   "slug": "canje-d30n6-adhesion-60-licitacion-tesoro-26-noviembre-2026",
+   "categoria": "mercado-argentino",
+   "titulo": "Canje D30N6: 60% de adhesión y licitación del jueves",
+   "h1": "El Tesoro canjeó el 60% de la letra dólar linked D30N6 y enfrenta vencimientos por $25,4 billones esta semana",
+   "descripcion": "El canje de la letra dólar linked D30N6 tuvo 60,19% de adhesión, menos que en octubre. El jueves el Tesoro enfrenta $25,4 billones. Qué implica para vos.",
+   "resumen": "El canje de la letra dólar linked D30N6 tuvo una adhesión de 60,19%, menor que en septiembre y octubre. El Tesoro enfrenta el jueves una licitación con vencimientos por unos $25,4 billones.",
+   "publicado": "2026-11-22T08:45:00-03:00",
+   "modificado": "2026-11-22T08:45:00-03:00",
+   "cuerpo": "<p>El <strong>Tesoro logró canjear el 60,19% de la letra dólar linked D30N6</strong>, que vence el 30 de noviembre, según informó la Secretaría de Finanzas el martes 17 de noviembre de 2026. La adhesión fue la más baja de los últimos canjes de este tipo y deja un vencimiento de alrededor de <strong>$25,4 billones</strong> para la licitación de esta semana, según La Capital.</p>\n<h2>Cómo salió el canje</h2>\n<p>De acuerdo con el comunicado oficial, se recibieron <strong>481 ofertas</strong> por un valor nominal de USD 3.328 millones y se adjudicaron <strong>USD 2.875 millones</strong> de la nueva letra D29E7, que vence el <strong>29 de enero de 2027</strong>. A cambio se rescatan USD 2.854 millones de la D30N6. El precio de corte fue de USD 992,33 por cada USD 1.000 de valor nominal; La Capital informó que eso equivale a una tasa nominal anual de corte de 4,1%.</p>\n<table><tr><th>Dato del canje</th><th>Valor</th></tr><tr><td>Adhesión</td><td>60,19% del VNO en circulación</td></tr><tr><td>Ofertas recibidas</td><td>481 (USD 3.328 millones)</td></tr><tr><td>Adjudicado en la D29E7</td><td>USD 2.875 millones</td></tr><tr><td>D30N6 rescatada</td><td>USD 2.854 millones</td></tr><tr><td>Saldo que vence el 30/11</td><td>USD 1.888 millones</td></tr></table>\n<p>Según La Capital, al Tesoro le <strong>restan cubrir USD 1.888 millones</strong> de esa letra hacia fin de mes. Como es dólar linked, se paga en pesos al tipo de cambio oficial de referencia: PPI recordó, en declaraciones recogidas por El Monterizo, que el dólar oficial del día de fijación determinará cuánto pagará el Tesoro en pesos.</p>\n<h2>Menos adhesión que en los canjes anteriores</h2>\n<p>El resultado quedó por debajo de las operaciones previas. En septiembre el Gobierno canjeó el 75% de la letra que vencía ese mes y en octubre la adhesión fue de 72,85%, según Bloomberg Línea. Delphos Investment, citada por El Monterizo, calculó que la aceptación promedio de los últimos cinco canjes había sido del 57% de las letras por vencer, por lo que el 60% de noviembre quedó apenas por encima de ese promedio más largo.</p>\n<p>El contexto pesó: el canje se hizo en una semana de fuerte suba del dólar oficial y de caída de los bonos, con el riesgo país por encima de los 1.000 puntos. Para ver cómo se compara ese nivel con otros momentos, podés revisar el <a href=\"/riesgo-pais/historico/\">riesgo país histórico</a>.</p>\n<h2>Qué viene esta semana</h2>\n<p>Después del feriado del lunes 23, el Tesoro anunciará el martes el menú de instrumentos y la licitación será el jueves, según La Capital. De los $25,4 billones que vencen, <strong>alrededor de $20 billones están en manos del sector privado</strong>. La misma nota cita a IEB, que estimó la liquidez inmediata de los bancos en $4,5 billones, y ubicó la tasa de caución en 19,8%.</p>\n<p>El nivel de renovación (rollover) y las tasas que convalide el Tesoro son datos a seguir: si el Tesoro paga más por los pesos, eso suele trasladarse con el tiempo a lo que ofrecen bancos y billeteras. Lo que espera el mercado para tasas y tipo de cambio lo podés ver en las <a href=\"/expectativas-de-mercado/\">expectativas de mercado del REM</a> y en la <a href=\"/dolar/proyeccion/\">proyección del dólar</a>.</p>\n<h2>Qué significa para tus ahorros</h2>\n<p>El canje y la licitación no cambian de forma directa tu plazo fijo ni tu cuenta remunerada, pero sí influyen en el precio del dinero en pesos. Si tenés pesos para colocar, conviene comparar el <a href=\"/plazo-fijo/\">ranking de plazo fijo</a> y los rendimientos de las <a href=\"/billeteras/\">billeteras virtuales</a>, y contrastarlos con la <a href=\"/inflacion/2026/\">inflación de 2026</a>: en octubre el IPC fue de 2,2% mensual. También podés ver si hoy el <a href=\"/plazo-fijo/le-gana-a-la-inflacion/\">plazo fijo le gana a la inflación</a>.</p>\n<p>Nada de esto es una recomendación de inversión: la decisión es de cada persona, según sus objetivos, su horizonte y cuánto riesgo está dispuesta a asumir.</p>",
+   "datos_clave": [
+    [
+     "Adhesión al canje",
+     "60,19%",
+     "De la D30N6, resultado del 17/11"
+    ],
+    [
+     "Saldo D30N6",
+     "USD 1.888 millones",
+     "Vence el 30/11, se paga en pesos"
+    ],
+    [
+     "Vencimientos de la semana",
+     "$25,4 billones",
+     "Licitación del jueves; ~$20 billones privados"
+    ]
+   ],
+   "grafico": {
+    "titulo": "Adhesión a los canjes de letras dólar linked",
+    "descripcion": "Porcentaje de la letra por vencer que aceptó el canje en cada mes de 2026.",
+    "sufijo": "%",
+    "items": [
+     [
+      "Septiembre",
+      75
+     ],
+     [
+      "Octubre",
+      72.85
+     ],
+     [
+      "Noviembre",
+      60.19
+     ]
+    ]
+   },
+   "faqs": [
+    [
+     "¿Qué es la letra D30N6?",
+     "Es una letra del Tesoro dólar linked que vence el 30 de noviembre de 2026: está emitida en dólares pero se paga en pesos al tipo de cambio oficial de referencia."
+    ],
+    [
+     "¿Por qué canjea el Tesoro?",
+     "Para pasar parte del vencimiento a una letra nueva (D29E7) que vence el 29 de enero de 2027 y así reducir el monto a pagar a fin de mes."
+    ],
+    [
+     "¿Afecta a mi plazo fijo?",
+     "No de forma directa, pero las tasas que convalide el Tesoro en la licitación pueden influir con el tiempo en lo que pagan bancos y billeteras."
+    ]
+   ],
+   "fuentes": [
+    {
+     "nombre": "Secretaría de Finanzas – Resultado de la conversión de la LELINK D30N6",
+     "url": "https://www.argentina.gob.ar/noticias/resultado-de-la-licitacion-para-la-conversion-de-la-lelink-d30n6-en-el-marco-del-articulo"
+    },
+    {
+     "nombre": "La Capital – En medio de la turbulencia financiera, el Tesoro busca refinanciar deuda",
+     "url": "https://www.lacapital.com.ar/economia/en-medio-la-turbulencia-financiera-el-tesoro-busca-refinanciar-deuda-n10293537.html"
+    },
+    {
+     "nombre": "El Monterizo – El Gobierno se sacó de encima una letra dolarizada clave",
+     "url": "https://elmonterizo.com/el-gobierno-se-saco-de-encima-una-letra-dolarizada-clave-cuanto-logro-canjear-antes-del-vencimiento"
+    },
+    {
+     "nombre": "Bloomberg Línea – Canje para aliviar presión cambiaria obtiene adhesión del 72%",
+     "url": "https://www.bloomberglinea.com/latinoamerica/argentina/canje-para-aliviar-presion-cambiaria-y-vencimientos-de-deuda-en-pesos-obtiene-adhesion-del-72/"
+    },
+    {
+     "nombre": "Infobae – El Gobierno canjeó el 75% de un bono atado al dólar",
+     "url": "https://www.infobae.com/economia/2026/09/22/deuda-el-gobierno-canjeo-el-75-de-un-bono-atado-al-dolar-y-redujo-un-foco-de-tension-cambiaria/"
+    }
+   ],
+   "relacionados": [
+    [
+     "/expectativas-de-mercado/",
+     "Expectativas de mercado del BCRA"
+    ],
+    [
+     "/plazo-fijo/",
+     "Ranking de plazo fijo"
+    ]
+   ]
+  },
   {
    "slug": "riesgo-pais-supera-1000-puntos-1071-20-noviembre-2026",
    "categoria": "mercado-argentino",
