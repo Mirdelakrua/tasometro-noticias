@@ -1,6 +1,103 @@
 {
- "actualizado": "2026-11-23",
+ "actualizado": "2026-11-24",
  "noticias": [
+  {
+   "slug": "riesgo-pais-baja-1027-rebote-wall-street-23-noviembre-2026",
+   "categoria": "mercado-argentino",
+   "titulo": "Riesgo país baja a 1.027 por el rebote de Wall Street",
+   "h1": "El riesgo país cayó de 1.070 a 1.027 puntos y los bonos rebotaron 2% con el impulso de Wall Street",
+   "descripcion": "El lunes 23/11 el riesgo país tocó 1.015 y cerró en 1.027 puntos, 4% menos que el viernes. Bonos +2% y ADRs hasta +6%. Qué mirar hoy y qué implica.",
+   "resumen": "Con el mercado local cerrado, el riesgo país bajó el lunes 23 de noviembre de 1.070 a 1.027 puntos (mínimo de 1.015) por el rebote de Wall Street. El impacto en el dólar y el Merval se verá este martes.",
+   "publicado": "2026-11-24T08:45:00-03:00",
+   "modificado": "2026-11-24T08:45:00-03:00",
+   "cuerpo": "<p>El <strong>riesgo país bajó el lunes 23 de noviembre de 2026 hasta un mínimo de 1.015 puntos básicos</strong> y, según el registro de Rava Bursátil, cerró en <strong>1.027 puntos, 43 menos (-4%) que los 1.070 del viernes 20</strong>. El alivio llegó con el mercado argentino cerrado: los bonos en dólares rebotaron cerca de 2% y las acciones argentinas que cotizan en Nueva York subieron hasta 6%, contagiadas por un fuerte rebote de Wall Street.</p>\n<h2>Qué pasó el lunes</h2>\n<p>El impulso vino de afuera. Después de una de sus peores semanas desde la pandemia de 2020, con ventas en las acciones ligadas a la inteligencia artificial, Wall Street rebotó: según La Nación, el <strong>S&amp;P 500 subió 4,73%</strong>, el <strong>Nasdaq 6,7%</strong> y el Dow Jones 2,7%. El disparador fue Nvidia, que restituyó a Jensen Huang como presidente y CEO tras su renuncia del 12 de noviembre; la acción de la compañía subió 33%.</p>\n<p>Ese clima se trasladó a los activos argentinos. Entre los ADRs, La Nación registró subas de 6,1% en Edenor, 5,8% en Banco Macro, 5,6% en Supervielle, 5,3% en Grupo Galicia, 4,9% en BBVA Argentina y 4,3% en YPF. Los bonos soberanos en dólares avanzaron cerca de 2%, de acuerdo con Hoy Día y Diario Panorama.</p>\n<h2>Un rebote después de un mes muy malo</h2>\n<p>La baja del lunes no borra lo que pasó en noviembre. Según La Nación, el riesgo país había subido <strong>29,7% en las primeras tres semanas del mes</strong>, y el viernes tocó su nivel más alto desde las elecciones legislativas de 2025. Hoy Día calcula que en lo que va del año el indicador acumula una suba de 444 puntos desde los 571 con los que terminó 2025.</p>\n<p>Podés ver cómo se movió el indicador en el tiempo en el <a href=\"/riesgo-pais/historico/\">riesgo país histórico</a> y el valor del día en la página de <a href=\"/riesgo-pais/\">riesgo país hoy</a>.</p>\n<table>\n<tr><th>Fecha</th><th>Riesgo país (puntos)</th></tr>\n<tr><td>13/11/2026</td><td>830</td></tr>\n<tr><td>18/11/2026</td><td>848</td></tr>\n<tr><td>19/11/2026</td><td>931</td></tr>\n<tr><td>20/11/2026</td><td>1.070</td></tr>\n<tr><td>23/11/2026</td><td>1.027</td></tr>\n</table>\n<h2>Qué falta ver este martes</h2>\n<p>Como la plaza local no operó el lunes, el efecto sobre el S&amp;P Merval y sobre el dólar recién se verá este martes 24, cuando vuelva a abrir el mercado, señaló Hoy Día. Hay que tener en cuenta que el riesgo país sigue por encima de los 1.000 puntos y que parte de la suba reciente respondió también a factores locales: Andrés Reschini, de F2 Soluciones Financieras, citado por La Nación, mencionó la incertidumbre por las elecciones presidenciales del año próximo, aunque estimó que una mejora del frente externo difícilmente deje de impulsar a las acciones locales.</p>\n<h2>Qué significa para el ahorrista</h2>\n<p>El riesgo país mide cuánto más que el Tesoro de EE.UU. le exige el mercado a la Argentina para prestarle. Cuando sube, suele haber más presión sobre el tipo de cambio y sobre las tasas; cuando baja, el clima tiende a aflojarse. Un día de rebote, sin embargo, no define una tendencia.</p>\n<ul>\n<li>Si seguís el dólar, mirá la apertura de hoy en la cotización del <a href=\"/dolar/mep/\">dólar MEP hoy</a> y los escenarios de la <a href=\"/dolar/proyeccion/\">proyección del dólar</a>.</li>\n<li>Si tenés pesos, compará rendimientos en el <a href=\"/plazo-fijo/\">ranking de plazo fijo</a> y en las <a href=\"/billeteras/\">tasas de billeteras virtuales</a>.</li>\n<li>Para ver qué esperan los analistas para inflación y tipo de cambio, consultá las <a href=\"/expectativas-de-mercado/\">expectativas de mercado (REM)</a>.</li>\n</ul>\n<p>Con volatilidad alta, conviene informarse bien y no tomar decisiones por el movimiento de un solo día. La decisión es de cada persona.</p>",
+   "datos_clave": [
+    [
+     "Riesgo país",
+     "1.027 puntos",
+     "Cierre 23/11 según Rava, -43 (-4%)"
+    ],
+    [
+     "Mínimo del día",
+     "1.015 puntos",
+     "Desde 1.070 el viernes 20/11"
+    ],
+    [
+     "Bonos en dólares",
+     "≈ +2%",
+     "Rebote del lunes 23/11"
+    ]
+   ],
+   "grafico": {
+    "titulo": "Riesgo país en noviembre de 2026",
+    "descripcion": "Cierres en puntos básicos. Fuente: Rava Bursátil.",
+    "sufijo": " pb",
+    "items": [
+     [
+      "13/11",
+      830
+     ],
+     [
+      "18/11",
+      848
+     ],
+     [
+      "19/11",
+      931
+     ],
+     [
+      "20/11",
+      1070
+     ],
+     [
+      "23/11",
+      1027
+     ]
+    ]
+   },
+   "faqs": [
+    [
+     "¿Por qué bajó el riesgo país el 23 de noviembre?",
+     "Por el rebote de Wall Street, impulsado por Nvidia tras la vuelta de Jensen Huang como CEO, que contagió a bonos y acciones argentinas en el exterior."
+    ],
+    [
+     "¿Por qué no hubo cotización del dólar el lunes?",
+     "El mercado argentino estuvo cerrado; el efecto sobre el dólar y el Merval se verá el martes 24 de noviembre."
+    ],
+    [
+     "¿Cuánto subió el riesgo país en noviembre?",
+     "Según La Nación, 29,7% en las primeras tres semanas del mes, hasta su máximo desde las legislativas de 2025."
+    ]
+   ],
+   "fuentes": [
+    {
+     "nombre": "La Nación – Cae el riesgo país: Wall Street rebota con fuerza y contagia a las acciones argentinas",
+     "url": "https://www.lanacion.com.ar/economia/dolar/cae-el-riesgo-pais-wall-street-rebota-con-fuerza-y-contagia-a-las-acciones-argentinas-que-cotizan-en-nid23112026/"
+    },
+    {
+     "nombre": "Hoy Día Córdoba – Los activos argentinos rebotaron y el riesgo país cayó a 1.015 puntos",
+     "url": "https://hoydia.com.ar/economia/riesgo-pais-argentina-activos/"
+    },
+    {
+     "nombre": "Diario Panorama – Las acciones argentinas rebotan en Wall Street y el riesgo país cae con fuerza",
+     "url": "https://www.diariopanorama.com/noticia/573937/acciones-argentinas-rebotan-wall-street-riesgo-pais-cae-fuerza-medio-jornada-euforia"
+    },
+    {
+     "nombre": "Rava Bursátil – Riesgo país histórico",
+     "url": "https://www.rava.com/cotizaciones/historico/riesgo-pais/hoy/"
+    }
+   ],
+   "relacionados": [
+    [
+     "/riesgo-pais/historico/",
+     "Riesgo país histórico"
+    ],
+    [
+     "/dolar/proyeccion/",
+     "Proyección del dólar"
+    ]
+   ]
+  },
   {
    "slug": "real-brasileno-desplome-dolar-global-presion-peso-noviembre-2026",
    "categoria": "mercado-internacional",
