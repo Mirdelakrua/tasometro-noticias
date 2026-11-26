@@ -1,6 +1,95 @@
 {
- "actualizado": "2026-11-25",
+ "actualizado": "2026-11-26",
  "noticias": [
+  {
+   "slug": "riesgo-pais-toca-1134-cierra-1067-dolar-oficial-1630-25-noviembre-2026",
+   "categoria": "mercado-argentino",
+   "titulo": "Riesgo país tocó 1.134 y el dólar oficial llegó a $1.630",
+   "h1": "El riesgo país tocó 1.134 puntos y cerró cerca de 1.067, mientras el dólar oficial marcó un nuevo récord de $1.630",
+   "descripcion": "El 25/11 el riesgo país llegó a 1.134 puntos y cerró en torno a 1.067. El dólar oficial subió $15 a $1.630 y el blue cerró a $1.710. Qué significa.",
+   "resumen": "El miércoles 25 de noviembre el riesgo país tocó 1.134 puntos y luego cerró en torno a 1.067-1.068. El dólar oficial del Banco Nación subió $15 hasta $1.630, un nuevo récord nominal, y el blue cerró a $1.710.",
+   "publicado": "2026-11-26T09:00:00-03:00",
+   "modificado": "2026-11-26T09:00:00-03:00",
+   "cuerpo": "<p>El <strong>miércoles 25 de noviembre de 2026 el riesgo país llegó a tocar 1.134 puntos básicos</strong> en el arranque de la rueda, 40 unidades por encima del cierre del martes (1.094), pero después se moderó y <strong>terminó en torno a 1.067-1.068 puntos</strong>. En paralelo, el <strong>dólar oficial en el Banco Nación subió $15 y cerró a $1.630 para la venta</strong>, un nuevo récord nominal y su séptima suba consecutiva, según El Doce.</p>\n<h2>Un día de dos caras para el riesgo país</h2>\n<p>El indicador que elabora JP Morgan abrió con fuerte presión: El Doce y Urgente24 coinciden en que tocó 1.134 puntos. A media jornada todavía rondaba los 1.121-1.128 puntos, con los bonos soberanos en baja, según elDiarioAR. Hacia el cierre la presión aflojó: El Doce informó un cierre de 1.067 unidades y Urgente24, de 1.068. Contra el 1.094 del martes, eso implica una baja cercana al 2,5% en el día, aunque el nivel sigue entre los más altos del último año.</p>\n<p>Urgente24 recordó que el 26 de octubre el indicador estaba en 765 puntos, lo que da una suba de casi 40% en un mes. Para ver la evolución completa podés consultar el <a href=\"/riesgo-pais/historico/\">riesgo país histórico</a>.</p>\n<h2>El dólar oficial no frena</h2>\n<p>El oficial minorista del Banco Nación cerró a <strong>$1.580 para la compra y $1.630 para la venta</strong>. Una semana antes, el 19 de noviembre, estaba en $1.585; el martes 24 había cerrado en $1.615. El mayorista terminó en $1.604, según Urgente24.</p>\n<p>El <strong>dólar blue cerró a $1.710 para la venta</strong> ($1.690 para la compra), después de haber llegado a subir hasta $40 durante el día, según El Doce. Frente a los $1.700 del martes, terminó $10 arriba. El <a href=\"/dolar/mep/\">dólar MEP</a> cerró en $1.669,39 según Urgente24, tras operar cerca de $1.678 al mediodía.</p>\n<p>Consultado por la suba, el ministro de Economía, Luis Caputo, dijo \"no me preocupa\", según El Doce, y atribuyó la caída de los bonos al \"escenario político\", según elDiarioAR.</p>\n<h2>Qué significa para el ahorrista</h2>\n<ul>\n<li><strong>Si ahorrás en pesos:</strong> con el dólar subiendo, conviene comparar si la tasa que te pagan compensa la suba del tipo de cambio y la inflación. El <a href=\"/plazo-fijo/\">ranking de plazo fijo</a> y la comparación de <a href=\"/billeteras/\">billeteras virtuales</a> muestran cuánto paga cada entidad hoy.</li>\n<li><strong>Si pensás comprar dólares:</strong> la diferencia entre oficial, MEP y blue cambia día a día. Mirar las <a href=\"/expectativas-de-mercado/\">expectativas de mercado</a> y la <a href=\"/dolar/proyeccion/\">proyección del dólar</a> ayuda a ponerlo en contexto, aunque nadie puede anticipar el precio con certeza.</li>\n<li><strong>Si tenés deudas o pensás pedir un crédito:</strong> un riesgo país alto suele encarecer el financiamiento en general. Antes de tomar uno, compará el costo total en <a href=\"/prestamos-personales/\">préstamos personales</a>.</li>\n</ul>\n<p>Ninguno de estos datos es una recomendación de inversión: la decisión es de cada persona, según sus objetivos y su horizonte.</p>\n<h2>Qué mirar en los próximos días</h2>\n<p>El mercado seguirá atento a si el riesgo país logra consolidarse por debajo de los 1.100 puntos o vuelve a superarlos, y a si el oficial sigue marcando récords nominales. Los bonos en dólares y las declaraciones del equipo económico fueron, en las últimas ruedas, los factores que más movieron las cotizaciones.</p>",
+   "datos_clave": [
+    [
+     "Riesgo país",
+     "1.067-1.068 puntos",
+     "Cierre 25/11; máximo de 1.134 en la rueda"
+    ],
+    [
+     "Dólar oficial BNA",
+     "$1.630",
+     "Venta, récord nominal (+$15)"
+    ],
+    [
+     "Dólar blue",
+     "$1.710",
+     "Venta; llegó a subir $40 en el día"
+    ]
+   ],
+   "grafico": {
+    "titulo": "Dólar oficial Banco Nación en noviembre de 2026",
+    "descripcion": "Cierre de venta, en pesos. Fuentes: prensa citada en esta nota y notas previas de Tasómetro.",
+    "sufijo": "$",
+    "items": [
+     [
+      "19/11",
+      1585
+     ],
+     [
+      "20/11",
+      1595
+     ],
+     [
+      "24/11",
+      1615
+     ],
+     [
+      "25/11",
+      1630
+     ]
+    ]
+   },
+   "faqs": [
+    [
+     "¿Cuánto cerró el riesgo país el 25 de noviembre de 2026?",
+     "Cerró en torno a 1.067-1.068 puntos básicos, después de tocar 1.134 al inicio de la rueda. El martes había cerrado en 1.094."
+    ],
+    [
+     "¿A cuánto llegó el dólar oficial?",
+     "En el Banco Nación cerró a $1.580 para la compra y $1.630 para la venta, $15 más que el martes y un nuevo récord nominal."
+    ],
+    [
+     "¿Cuánto cotizó el dólar blue?",
+     "Cerró a $1.690 para la compra y $1.710 para la venta, tras subir hasta $40 durante la jornada."
+    ]
+   ],
+   "fuentes": [
+    {
+     "nombre": "El Doce",
+     "url": "https://eldoce.tv/politica/2026/11/25/el-dolar-en-vivo-nuevo-aumento-y-alcanza-los-1630-para-la-venta-este-miercoles/"
+    },
+    {
+     "nombre": "Urgente24",
+     "url": "https://urgente24.com/dinero/la-cotizacion-del-dolar-sigue-subiendo-blue-1710-y-riesgo-pais-1068-este-25-noviembre-n637461"
+    },
+    {
+     "nombre": "elDiarioAR",
+     "url": "https://www.eldiarioar.com/economia/dolar-oficial-trepo-1-630-riesgo-pais-supero-1-100-puntos_1_13693401.html"
+    }
+   ],
+   "relacionados": [
+    [
+     "/riesgo-pais/historico/",
+     "Riesgo país histórico"
+    ],
+    [
+     "/dolar/proyeccion/",
+     "Proyección del dólar"
+    ]
+   ]
+  },
   {
    "slug": "riesgo-pais-1094-dolar-oficial-record-1615-24-noviembre-2026",
    "categoria": "mercado-argentino",
