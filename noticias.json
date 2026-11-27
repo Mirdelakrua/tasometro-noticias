@@ -1,6 +1,91 @@
 {
- "actualizado": "2026-11-26",
+ "actualizado": "2026-11-27",
  "noticias": [
+  {
+   "slug": "licitacion-tesoro-rollover-104-87-sin-liberar-pesos-26-noviembre-2026",
+   "categoria": "tasas",
+   "titulo": "Licitación del Tesoro: rollover de 104,87% sin liberar pesos",
+   "h1": "El Tesoro adjudicó $26,71 billones, renovó todos los vencimientos con un rollover de 104,87% y no liberó pesos al mercado",
+   "descripcion": "El 26/11 el Tesoro adjudicó $26,71 billones con un rollover de 104,87% y no liberó pesos. Qué instrumentos eligió el mercado y qué implica para tus ahorros.",
+   "resumen": "En la licitación del jueves 26 de noviembre el Tesoro adjudicó $26,71 billones frente a vencimientos por unos $25,4 billones (rollover de 104,87%) y no liberó pesos. Hubo fuerte demanda de cobertura cambiaria y premios en las letras dólar linked.",
+   "publicado": "2026-11-27T08:42:00-03:00",
+   "modificado": "2026-11-27T08:42:00-03:00",
+   "datos_clave": [
+    [
+     "Monto adjudicado",
+     "$26,71 billones",
+     "Ofertas por $29,16 billones"
+    ],
+    [
+     "Rollover",
+     "104,87%",
+     "Sobre vencimientos de unos $25,4 billones"
+    ],
+    [
+     "Cobertura cambiaria",
+     "USD 2.000 millones",
+     "Dual y dólar linked, según RoadShow"
+    ]
+   ],
+   "grafico": {
+    "titulo": "Licitación del Tesoro del 26/11/2026: principales instrumentos",
+    "descripcion": "Monto adjudicado por instrumento, en billones de pesos. Fuente: Infobae.",
+    "sufijo": " billones",
+    "items": [
+     [
+      "Lecap feb-27",
+      7.0
+     ],
+     [
+      "TAMAR may-27",
+      6.1
+     ],
+     [
+      "CER jun-28",
+      5.72
+     ],
+     [
+      "Letra jul-27",
+      3.79
+     ]
+    ]
+   },
+   "faqs": [
+    [
+     "¿Cuánto renovó el Tesoro en la licitación del 26 de noviembre de 2026?",
+     "Adjudicó $26,71 billones frente a vencimientos por unos $25,4 billones, un rollover de 104,87%. Recibió ofertas por $29,16 billones."
+    ],
+    [
+     "¿La licitación liberó pesos al mercado?",
+     "No. Según Infobae, el Tesoro captó más de lo que vencía, lo que implicó una absorción neta de liquidez."
+    ],
+    [
+     "¿Cambia la tasa de mi plazo fijo?",
+     "No de forma directa ni inmediata, pero que el Tesoro convalide tasas con premio indica que el dinero en pesos sigue caro, algo que suele influir en lo que pagan bancos y billeteras."
+    ]
+   ],
+   "fuentes": [
+    {
+     "nombre": "Infobae",
+     "url": "https://www.infobae.com/economia/2026/11/26/licitacion-clave-el-gobierno-renovo-todos-los-vencimientos-por-mas-de-25-billones-y-no-libero-pesos-al-mercado/"
+    },
+    {
+     "nombre": "RoadShow",
+     "url": "https://www.roadshow.com.ar/el-tesoro-logro-un-rollover-del-105-y-refinancio-todos-los-vencimientos-en-una-licitacion-desafiante/"
+    }
+   ],
+   "relacionados": [
+    [
+     "/plazo-fijo/",
+     "Ranking de plazo fijo"
+    ],
+    [
+     "/expectativas-de-mercado/",
+     "Expectativas de mercado del REM"
+    ]
+   ],
+   "cuerpo": "<p>El <strong>jueves 26 de noviembre de 2026 el Tesoro adjudicó $26,71 billones</strong> en la última licitación de deuda en pesos del mes y logró un <strong>rollover de 104,87%</strong>: renovó todos los vencimientos, que rondaban los $25,4 billones, y además captó pesos extra. Según Infobae, la operación <strong>no liberó pesos al mercado</strong> y dejó una absorción neta de liquidez. Las ofertas sumaron $29,16 billones.</p>\n<h2>Los números de la licitación</h2>\n<p>Era una prueba exigente: RoadShow, citando a Bloomberg Línea, señaló que unos $20,8 billones de esos vencimientos estaban en manos de inversores privados, en una semana con el riesgo país por encima de los 1.000 puntos y el dólar oficial en récords nominales. Aun así, la demanda superó lo que vencía.</p>\n<table><tr><th>Dato</th><th>Valor</th></tr><tr><td>Monto adjudicado</td><td>$26,71 billones</td></tr><tr><td>Ofertas recibidas</td><td>$29,16 billones</td></tr><tr><td>Vencimientos</td><td>$25,4 billones</td></tr><tr><td>Rollover</td><td>104,87%</td></tr><tr><td>Plazo promedio de emisión</td><td>253 días</td></tr></table>\n<p>El secretario de Finanzas, Federico Furiase, explicó que se buscó el equilibrio entre el rollover, la recomposición de los depósitos del Tesoro en el BCRA, la extensión de plazos y los niveles de liquidez del sistema.</p>\n<h2>Qué instrumentos eligió el mercado</h2>\n<p>De acuerdo con Infobae, la mayor porción fue una <strong>Lecap (tasa fija) a febrero de 2027 por $7 billones</strong>. Le siguieron una letra atada a la tasa TAMAR con vencimiento en mayo de 2027 por $6,10 billones, con un margen de 4% sobre esa referencia; un bono ajustado por inflación (CER) a junio de 2028 por $5,72 billones; y otra letra a julio de 2027 por $3,79 billones. RoadShow agregó que, sumando ambas Lecap, los títulos a tasa fija representaron el 40% de lo adjudicado.</p>\n<p>Según Aldazabal y Cía., citada por RoadShow, el plazo promedio de lo emitido fue de 253 días, unos 90 días más que en la licitación anterior, y fue la séptima licitación seguida sin instrumentos en dólares (hard dollar).</p>\n<h2>Fuerte demanda de cobertura contra el dólar</h2>\n<p>Un dato que muestra la preocupación por el tipo de cambio: el bono dual y las dos letras dólar linked (a marzo y mayo de 2027) sumaron el equivalente a unos <strong>USD 2.000 millones</strong>, más que el vencimiento de la letra D30N6, estimado en USD 1.887 millones, según RoadShow. Valentín Gómez García, de Adcap, señaló que las letras dólar linked convalidaron premios de hasta 300 puntos básicos. Es decir, el Tesoro renovó todo, pero tuvo que pagar algo más para lograrlo. Para seguir qué espera el mercado del tipo de cambio podés ver la <a href=\"/dolar/proyeccion/\">proyección del dólar</a>.</p>\n<h2>Qué significa para tus ahorros</h2>\n<p>Que el Tesoro no haya liberado pesos y que haya aceptado tasas con premio indica que el dinero en pesos sigue caro. Ese costo suele trasladarse con el tiempo a lo que ofrecen bancos y billeteras, aunque no de forma automática ni inmediata. Si tenés pesos para colocar, podés comparar el <a href=\"/plazo-fijo/\">ranking de plazo fijo</a>, ver casos puntuales como <a href=\"/plazo-fijo/banco-voii/\">el plazo fijo de Banco VOII</a> y revisar los rendimientos de las <a href=\"/billeteras/\">billeteras virtuales</a>.</p>\n<p>La comparación clave es contra la <a href=\"/inflacion/2026/\">inflación de 2026</a> y contra lo que proyectan los analistas en las <a href=\"/expectativas-de-mercado/\">expectativas de mercado del REM</a>. Del otro lado, si estás pensando en endeudarte, tasas en pesos altas suelen encarecer los <a href=\"/prestamos-personales/\">préstamos personales</a>.</p>\n<p>Nada de esto es una recomendación de inversión: la decisión es de cada persona, según sus objetivos, su horizonte y cuánto riesgo está dispuesta a asumir.</p>"
+  },
   {
    "slug": "riesgo-pais-toca-1134-cierra-1067-dolar-oficial-1630-25-noviembre-2026",
    "categoria": "mercado-argentino",
